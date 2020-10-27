@@ -1,7 +1,7 @@
-F:\Alias_desktop\GitHub\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Development\Jam_UE4\Definitions.Jam_UE4.h
-F:\Alias_desktop\GitHub\JAM_UE4\Jam_UE4\Source\Jam_UE4\Jam_UE4GameModeBase.h
-F:\Program Files\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-F:\Program Files\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-F:\Program Files\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-F:\Program Files\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-F:\Alias_desktop\GitHub\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Jam_UE4\Jam_UE4GameModeBase.generated.h
+E:\Unreal\JAM\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Development\Jam_UE4\Definitions.Jam_UE4.h
+E:\Unreal\JAM\JAM_UE4\Jam_UE4\Source\Jam_UE4\Jam_UE4GameModeBase.h
+E:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Unreal\JAM\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Jam_UE4\Jam_UE4GameModeBase.generated.h
