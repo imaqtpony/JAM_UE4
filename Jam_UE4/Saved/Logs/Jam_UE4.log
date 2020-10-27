@@ -2003,3 +2003,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-16.05.49:541][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LA_SUPER_BANANE/NPC/NPC_BT" FILE="../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/LA_SUPER_BANANE/NPC/NPC_BT_Auto4.uasset" SILENT=false AUTOSAVING=true
 [2020.10.27-16.05.49:548][772]LogSavePackage: Moving '../../../../JAM/JAM_UE4/Jam_UE4/Saved/NPC_BT_Auto49C4BA6254B5DE1704A4DAB90788150C2.tmp' to '../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/LA_SUPER_BANANE/NPC/NPC_BT_Auto4.uasset'
 [2020.10.27-16.05.49:548][772]LogFileHelpers: Auto-saving content packages took 0.007
+[2020.10.27-16.08.44:296][380]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/CharacterBP.
+[2020.10.27-16.08.44:303][380]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/GameMode1.
