@@ -1561,3 +1561,7 @@ Would you like to open the Output Log to see more details?
 [2020.10.27-16.05.55:904][814]LogSavePackage: Moving '../../../../../Alias_desktop/GitHub/JAM_UE4/Jam_UE4/Saved/Matt_scene_Auto1FC8FA2CB45032351074FE1915AD4DDC3.tmp' to '../../../../../Alias_desktop/GitHub/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/StarterContent/Maps/Matt_scene_Auto1.umap'
 [2020.10.27-16.05.55:932][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Matt_scene' took 0.564
 [2020.10.27-16.05.55:932][814]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.564
+[2020.10.27-16.55.28:466][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.10.27-16.55.28:693][805]LogSavePackage: Moving '../../../../../Alias_desktop/GitHub/JAM_UE4/Jam_UE4/Saved/Matt_sceneDDB6D9F64D396CCA1ECB458930655D1E.tmp' to '../../../../../Alias_desktop/GitHub/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Matt_scene.umap'
+[2020.10.27-16.55.28:714][805]AssetCheck: New page: Asset Save: Matt_scene
+[2020.10.27-16.55.28:714][805]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Matt_scene.Matt_scene
