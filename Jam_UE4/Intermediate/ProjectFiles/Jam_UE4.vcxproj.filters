@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Jam_UE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C798410C-26FB-4194-A055-B39191399FEC}</UniqueIdentifier>
+      <UniqueIdentifier>{899548EE-B216-4943-B402-C8B91FCFFBDD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Jam_UE4.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F5E2A56D-D2BA-4F52-A3BA-74B45803C86B}</UniqueIdentifier>
+      <UniqueIdentifier>{75EB425E-C7F4-47AE-A4FE-22B3BF458FCD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,20 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Jam_UE4">
-      <UniqueIdentifier>{0EEFC41A-9173-470C-87C5-A72BA00B7018}</UniqueIdentifier>
+      <UniqueIdentifier>{DA855761-0E45-4535-BDA5-84B5B7BAA2F1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Jam_UE4\DropGem.cpp">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jam_UE4\DropGem.h">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Jam_UE4\Gem.cpp">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jam_UE4\Gem.h">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Jam_UE4\Jam_UE4.Build.cs">
       <Filter>Source\Jam_UE4</Filter>
     </None>
