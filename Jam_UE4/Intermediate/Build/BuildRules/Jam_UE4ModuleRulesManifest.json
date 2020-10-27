@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4\\Jam_UE4.Build.cs",
-		"E:\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4.Target.cs",
-		"E:\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4Editor.Target.cs"
+		"C:\\Users\\Florian\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4\\Jam_UE4.Build.cs",
+		"C:\\Users\\Florian\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4.Target.cs",
+		"C:\\Users\\Florian\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4Editor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
