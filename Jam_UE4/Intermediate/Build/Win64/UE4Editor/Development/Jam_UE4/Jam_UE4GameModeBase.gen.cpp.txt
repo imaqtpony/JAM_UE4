@@ -1,9 +1,9 @@
-E:\Unreal\JAM\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Development\Jam_UE4\Definitions.Jam_UE4.h
-E:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Unreal\JAM\JAM_UE4\Jam_UE4\Source\Jam_UE4/Jam_UE4GameModeBase.h
-E:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-E:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-E:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-E:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Unreal\JAM\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Jam_UE4\Jam_UE4GameModeBase.generated.h
+E:\Documents\Unreal Projects\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Development\Jam_UE4\Definitions.Jam_UE4.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Documents\Unreal Projects\JAM_UE4\Jam_UE4\Source\Jam_UE4/Jam_UE4GameModeBase.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Program Files (x86)\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Documents\Unreal Projects\JAM_UE4\Jam_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Jam_UE4\Jam_UE4GameModeBase.generated.h

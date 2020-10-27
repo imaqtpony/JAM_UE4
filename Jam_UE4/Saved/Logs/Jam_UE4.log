@@ -1049,3 +1049,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-14.17.17:451][441]LogBehaviorTree: Warning: Blackboard asset (AI_BB) has (AI_BB) in parent chain! Clearing value to avoid cycle.
 [2020.10.27-14.17.23:255][134]LogBehaviorTree: Warning: Blackboard asset (AI_BB) has (AI_BB) in parent chain! Clearing value to avoid cycle.
 [2020.10.27-14.17.28:733][785]LogBehaviorTree: Warning: Blackboard asset (AI_BB) has (AI_BB) in parent chain! Clearing value to avoid cycle.
+[2020.10.27-14.20.24:445][104]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.
+[2020.10.27-14.20.24:510][104]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AnimStarterPack/Ue4ASP_Character.
