@@ -712,3 +712,1330 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-14.17.25:101][888]LogDirectoryWatcher: A directory notification failed for 'E:/Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Developers/game3/Collections/' because it could not be accessed. Aborting watch request...
 [2020.10.27-14.17.25:101][888]LogDirectoryWatcher: A directory notification failed for 'E:/Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2020.10.27-14.17.38:782][137]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.27-14.18.57:807][868]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.10.27-14.19.06:124][868]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.10.27-14.19.10:734][394]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.10.27-14.19.11:148][394]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.10.27-14.19.11:148][394]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.10.27-14.19.11:322][394]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.10.27-14.19.11:404][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2020.10.27-14.19.11:404][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.10.27-14.19.11:404][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.10.27-14.19.11:404][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2020.10.27-14.19.11:404][394]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.10.27-14.19.11:420][394]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.10.27-14.19.13:722][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2020.10.27-14.19.13:733][558]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2020.10.27-14.19.14:353][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2020.10.27-14.19.14:484][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2020.10.27-14.19.16:111][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2020.10.27-14.19.16:339][787]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2020.10.27-14.19.16:987][861]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.10.27-14.19.17:346][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2020.10.27-14.19.19:254][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2020.10.27-14.19.19:373][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.10.27-14.19.19:807][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.10.27-14.19.19:917][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2020.10.27-14.19.21:110][290]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.10.27-14.19.22:331][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.10.27-14.19.22:387][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.10.27-14.19.22:679][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.10.27-14.19.23:713][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.10.27-14.19.23:824][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.10.27-14.19.23:923][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.27-14.19.24:244][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.27-14.19.24:328][598]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.27-14.19.24:413][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.27-14.19.25:554][598]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.27-14.19.42:492][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.19.42:771][947]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.27-14.19.45:556][163]LogSlate: Window 'CharacterBP' being destroyed
+[2020.10.27-14.20.03:341][878]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.27-14.20.09:332][335]LogSlate: Took 0.001154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.10.27-14.21.03:804][385]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-14.21.11:338][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.21.11:407][ 68]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP8B0ADCF34A0F7F8CF6F965931D6DCA27.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.21.11:419][ 68]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.21.11:419][ 68]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.24.34:542][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.24.35:000][959]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP911406A649ED743286BA7DA225DA0DFE.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.24.35:012][959]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.24.35:012][959]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.25.36:308][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.10.27-14.25.36:314][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.478
+[2020.10.27-14.25.36:317][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharAnimBlueprint] ([1] browsable assets)...
+[2020.10.27-14.25.36:347][939]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/CharAnimBlueprint.CharAnimBlueprint]
+[2020.10.27-14.25.36:347][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharAnimBlueprint]
+[2020.10.27-14.25.36:437][939]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharAnimBlueprint_Auto128AD187B440FA3EAD33674B6D2B9F444.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharAnimBlueprint_Auto1.uasset'
+[2020.10.27-14.25.36:454][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-14.25.36:480][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-14.25.36:480][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-14.25.36:520][939]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto1D632507E46E4C948E99BF2ACDFAAD149.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto1.uasset'
+[2020.10.27-14.25.36:520][939]LogFileHelpers: Auto-saving content packages took 0.205
+[2020.10.27-14.26.19:413][ 37]LogSlate: Took 0.014020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.27-14.27.29:383][834]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-14.27.29:914][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.27-14.27.30:852][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.27.30:884][939]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP4892E9EB4757F0F90BD95BB8BD415024.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.27.30:893][939]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.27.30:893][939]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.27.31:893][ 56]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-14.27.31:893][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.27.39:584][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.10.27-14.27.40:236][372]Cmd: DELETE
+[2020.10.27-14.27.40:236][372]Cmd: ACTOR DELETE
+[2020.10.27-14.27.40:238][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-14.27.40:257][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.10.27-14.27.40:259][372]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.27-14.27.40:547][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.10.27-14.27.40:678][417]Cmd: DELETE
+[2020.10.27-14.27.40:678][417]Cmd: ACTOR DELETE
+[2020.10.27-14.27.40:679][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-14.27.40:695][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.27-14.27.40:696][417]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.27-14.27.41:010][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.27-14.27.41:123][463]Cmd: DELETE
+[2020.10.27-14.27.41:123][463]Cmd: ACTOR DELETE
+[2020.10.27-14.27.41:124][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-14.27.41:139][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.27-14.27.41:139][463]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.27-14.27.41:754][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.27-14.27.41:926][552]Cmd: DELETE
+[2020.10.27-14.27.41:926][552]Cmd: ACTOR DELETE
+[2020.10.27-14.27.41:927][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-14.27.41:942][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.10.27-14.27.41:943][552]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.27-14.27.42:762][649]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-14.27.45:339][952]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2020.10.27-14.27.50:437][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.27-14.27.58:578][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.27-14.27.59:634][619]Cmd: DELETE
+[2020.10.27-14.27.59:634][619]Cmd: ACTOR DELETE
+[2020.10.27-14.27.59:635][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.27-14.27.59:650][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.10.27-14.27.59:654][619]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.10.27-14.27.59:934][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.27-14.28.14:276][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-14.28.16:310][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.27-14.28.16:327][401]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_DefaultD16682F04E17DFB82EE916A2E16971BD.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.27-14.28.16:357][401]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.27-14.28.16:358][401]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.27-14.28.32:101][ 69]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.27-14.28.37:126][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode.GameMode
+[2020.10.27-14.28.40:669][909]LogSlate: Window 'GameMode' being destroyed
+[2020.10.27-14.29.01:729][953]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-14.29.23:007][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode.uasset" SILENT=true
+[2020.10.27-14.29.23:012][  8]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/GameMode1935C39140D00ED08DB9D89968CD97A2.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode.uasset'
+[2020.10.27-14.29.23:023][  8]AssetCheck: New page: Asset Save: GameMode
+[2020.10.27-14.29.23:023][  8]LogContentValidation: Display: Validating Blueprint /Game/GameMode.GameMode
+[2020.10.27-14.29.24:020][125]BlueprintLog: New page: Compile GameMode
+[2020.10.27-14.29.24:051][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.27-14.29.24:756][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode.uasset" SILENT=true
+[2020.10.27-14.29.24:762][204]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/GameMode6096BC6248BDF5C250CCEF90804C448F.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode.uasset'
+[2020.10.27-14.29.24:771][204]AssetCheck: New page: Asset Save: GameMode
+[2020.10.27-14.29.24:771][204]LogContentValidation: Display: Validating Blueprint /Game/GameMode.GameMode
+[2020.10.27-14.29.45:004][804]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-14.29.45:010][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-14.29.45:010][804]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 16:29:45)
+[2020.10.27-14.29.45:011][804]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.27-14.29.45:012][804]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.27-14.29.45:012][804]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.29.45:024][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011507s)
+[2020.10.27-14.29.45:025][804]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-14.29.45:025][804]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5855D9C00), frame # 48804
+[2020.10.27-14.29.45:025][804]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B54E7DC680), frame # 48804
+[2020.10.27-14.29.45:025][804]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2020.10.27-14.29.45:025][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013213s)
+[2020.10.27-14.29.45:044][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-14.29.45:045][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-14.29.45:045][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-14.29.45:046][804]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-14.29.45:046][804]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-14.29.45:052][804]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-14.29.45:052][804]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-14.29.45:090][804]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-14.29.45:090][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-14.29.45:090][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-14.29.45:090][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-14.29.45:091][804]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-14.29.45:102][804]LogInit: FAudioDevice initialized.
+[2020.10.27-14.29.45:107][804]LogLoad: Game class is 'GameModeBase'
+[2020.10.27-14.29.45:109][804]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-15.29.45
+[2020.10.27-14.29.45:109][804]LogWorld: Bringing up level for play took: 0.000461
+[2020.10.27-14.29.45:109][804]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.10.27-14.29.45:303][804]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2020.10.27-14.29.45:304][804]PIE: Server logged in
+[2020.10.27-14.29.45:307][804]PIE: Play in editor total start time 0,298 seconds.
+[2020.10.27-14.29.50:823][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.29.50:823][401]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.29.50:823][401]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-14.29.50:823][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.29.50:829][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-14.29.50:833][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.29.50:868][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.29.50:874][401]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B54E7DC680), frame # 49401
+[2020.10.27-14.29.50:874][401]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5855D9C00), frame # 49401
+[2020.10.27-14.29.50:888][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.27-14.29.50:913][402]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.10.27-14.30.14:664][450]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.27-14.35.06:409][117]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-14.35.20:790][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.10.27-14.35.20:809][746]LogMetaData: Removing '/Game/GameMode1.GameMode1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameMode.PackageMetaData'
+[2020.10.27-14.35.20:809][746]LogMetaData: Removing '/Game/GameMode1.SKEL_GameMode1_C' ref from Metadata '/Game/GameMode.PackageMetaData'
+[2020.10.27-14.35.20:809][746]LogMetaData: Removing '/Game/GameMode1.GameMode1_C' ref from Metadata '/Game/GameMode.PackageMetaData'
+[2020.10.27-14.35.20:809][746]LogMetaData: Removing '/Game/GameMode1.GameMode1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameMode.PackageMetaData'
+[2020.10.27-14.35.20:809][746]LogMetaData: Removing '/Game/GameMode1.GameMode1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameMode.PackageMetaData'
+[2020.10.27-14.35.20:860][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode1" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode1.uasset" SILENT=true
+[2020.10.27-14.35.20:865][746]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/GameMode1C3334CD04B97AAF6C5083CB9612B9E48.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/GameMode1.uasset'
+[2020.10.27-14.35.21:249][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.27-14.35.21:274][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.10.27-14.35.21:293][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.27-14.35.21:445][746]AssetCheck: New page: Asset Save: GameMode1
+[2020.10.27-14.35.21:445][746]LogContentValidation: Display: Validating Blueprint /Game/GameMode1.GameMode1
+[2020.10.27-14.35.28:351][546]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-14.35.28:359][546]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.27-14.35.28:359][546]LogPlayLevel: [PlayLevel] Compiling CharAnimBlueprint before play...
+[2020.10.27-14.35.28:405][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.27-14.35.28:406][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2020.10.27-14.35.28:406][546]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 16:35:28)
+[2020.10.27-14.35.28:438][546]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.35.28:440][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002331s)
+[2020.10.27-14.35.28:441][546]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-14.35.28:441][546]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5B617E600), frame # 76546
+[2020.10.27-14.35.28:441][546]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B54D8B6840), frame # 76546
+[2020.10.27-14.35.28:441][546]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2020.10.27-14.35.28:442][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003936s)
+[2020.10.27-14.35.28:462][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-14.35.28:463][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-14.35.28:463][546]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-14.35.28:463][546]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-14.35.28:469][546]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-14.35.28:469][546]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-14.35.28:488][546]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-14.35.28:489][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-14.35.28:489][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-14.35.28:489][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-14.35.28:489][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-14.35.28:501][546]LogInit: FAudioDevice initialized.
+[2020.10.27-14.35.28:506][546]LogLinker: Warning: Failed to load '/Game/GameMode': Can't find file.
+[2020.10.27-14.35.28:506][546]LogLinker: Warning: Failed to load '/Game/GameMode': Can't find file.
+[2020.10.27-14.35.28:506][546]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameMode.GameMode_C'
+[2020.10.27-14.35.28:506][546]LogLoad: Game class is 'GameModeBase'
+[2020.10.27-14.35.28:508][546]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-15.35.28
+[2020.10.27-14.35.28:508][546]LogWorld: Bringing up level for play took: 0.000596
+[2020.10.27-14.35.28:508][546]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.27-14.35.28:510][546]PIE: Server logged in
+[2020.10.27-14.35.28:511][546]PIE: Play in editor total start time 0,152 seconds.
+[2020.10.27-14.35.31:358][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.35.31:358][882]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.35.31:358][882]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-14.35.31:358][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.35.31:363][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-14.35.31:367][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.35.31:385][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.35.31:401][882]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B54D8B6840), frame # 76882
+[2020.10.27-14.35.31:401][882]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5B617E600), frame # 76882
+[2020.10.27-14.35.31:403][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.27-14.35.31:454][884]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.27-14.35.50:727][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.35.51:039][480]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.27-14.35.51:892][562]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-14.35.51:892][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.39.47:139][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.27-14.39.47:142][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.063
+[2020.10.27-14.39.47:142][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharAnimBlueprint] ([1] browsable assets)...
+[2020.10.27-14.39.47:159][158]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/CharAnimBlueprint.CharAnimBlueprint]
+[2020.10.27-14.39.47:159][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharAnimBlueprint]
+[2020.10.27-14.39.47:168][158]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharAnimBlueprint_Auto2CDA9BB3745ED5864DA699CAB5104DBC1.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharAnimBlueprint_Auto2.uasset'
+[2020.10.27-14.39.47:168][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-14.39.47:184][158]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-14.39.47:184][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-14.39.47:714][158]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto231B54E184AC02CA2421D6ABACD3A2DF7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto2.uasset'
+[2020.10.27-14.39.47:715][158]LogFileHelpers: Auto-saving content packages took 0.573
+[2020.10.27-14.41.53:180][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.41.53:193][675]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPDCF2DB204DE888DA1BC7C4A79BC9E3B0.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.41.53:205][675]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.41.53:205][675]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.41.53:863][749]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-14.41.53:935][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.27-14.41.54:427][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.41.54:440][800]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP185FB6124EA481B13BD65FB925D5A9D6.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.41.54:452][800]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.41.54:452][800]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.44.00:593][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.44.00:606][114]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPFC32B8CE40D0D25ECD62EE9C6A5E115B.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.44.00:616][114]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.44.00:616][114]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.44.01:036][161]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-14.44.01:070][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.27-14.44.01:557][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.44.01:572][210]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP417C646E4A41DAE764ED119C379F63FE.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.44.01:581][210]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.44.01:581][210]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.44.31:781][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.44.31:791][213]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP06FBBA92497E2E270CFA7C84CA029F01.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.44.31:802][213]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.44.31:802][213]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.51.33:754][100]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:767][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:768][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:768][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:768][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:768][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:768][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:769][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:770][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:770][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:770][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:770][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:770][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:771][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:771][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:771][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:771][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:771][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:772][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:772][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:772][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:772][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:772][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:773][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:774][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:774][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:774][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:775][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:776][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:776][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:776][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:776][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:777][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:778][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:778][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:778][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:778][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:778][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:779][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:780][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:781][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:781][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:781][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:781][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:781][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:782][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:783][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:784][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:785][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:785][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:785][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:785][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:785][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:795][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:795][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:797][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:803][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:804][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:807][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:808][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:808][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:809][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:839][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:839][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:840][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:847][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:856][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:869][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:870][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:870][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:872][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:894][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:894][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:922][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:927][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:927][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.33:927][100]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.27-14.51.41:062][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.10.27-14.51.41:064][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.021
+[2020.10.27-14.51.41:064][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-14.51.41:077][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-14.51.41:077][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-14.51.41:093][857]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto34CD70A9E4E44F927CD56AF8129BDA376.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto3.uasset'
+[2020.10.27-14.51.41:094][857]LogFileHelpers: Auto-saving content packages took 0.030
+[2020.10.27-14.56.11:260][434]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddMovementInput' [Élément introuvable.]
+[2020.10.27-14.56.13:081][630]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-14.56.13:118][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.27-14.56.15:348][873]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-14.56.15:381][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.10.27-14.56.15:871][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-14.56.15:894][923]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPAB0BCB16409C7E3E00128CBE48A95900.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-14.56.15:907][923]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-14.56.15:907][923]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-14.56.18:013][158]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-14.56.18:022][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-14.56.18:022][158]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 16:56:18)
+[2020.10.27-14.56.18:049][158]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.56.18:051][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002453s)
+[2020.10.27-14.56.18:053][158]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-14.56.18:053][158]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B585014A00), frame # 165158
+[2020.10.27-14.56.18:053][158]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B58F4B5A80), frame # 165158
+[2020.10.27-14.56.18:053][158]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2020.10.27-14.56.18:053][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004075s)
+[2020.10.27-14.56.18:071][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-14.56.18:072][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-14.56.18:072][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-14.56.18:073][158]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-14.56.18:073][158]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-14.56.18:079][158]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-14.56.18:079][158]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-14.56.18:099][158]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-14.56.18:099][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-14.56.18:099][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-14.56.18:099][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-14.56.18:099][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-14.56.18:111][158]LogInit: FAudioDevice initialized.
+[2020.10.27-14.56.18:117][158]LogLoad: Game class is 'GameModeBase'
+[2020.10.27-14.56.18:118][158]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-15.56.18
+[2020.10.27-14.56.18:118][158]LogWorld: Bringing up level for play took: 0.000631
+[2020.10.27-14.56.18:118][158]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.27-14.56.18:120][158]PIE: Server logged in
+[2020.10.27-14.56.18:121][158]PIE: Play in editor total start time 0,099 seconds.
+[2020.10.27-14.56.24:789][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.56.24:789][951]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-14.56.24:789][951]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-14.56.24:789][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.56.24:795][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-14.56.24:798][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-14.56.24:828][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-14.56.24:829][951]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B58F4B5A80), frame # 165951
+[2020.10.27-14.56.24:829][951]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B585014A00), frame # 165951
+[2020.10.27-14.56.24:830][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.27-14.56.24:859][953]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.27-15.01.48:230][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.10.27-15.01.48:234][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.036
+[2020.10.27-15.01.48:234][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-15.01.48:251][901]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-15.01.48:251][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-15.01.48:278][901]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto4F23FD1D04A001210ED714789B7636089.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto4.uasset'
+[2020.10.27-15.01.48:279][901]LogFileHelpers: Auto-saving content packages took 0.045
+[2020.10.27-15.03.27:046][736]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.03.27:081][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.10.27-15.03.27:959][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.03.27:973][825]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP33A531644DF7BE138232949276826592.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.03.27:984][825]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.03.27:984][825]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.03.32:139][303]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.27-15.03.36:613][835]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-15.03.37:449][929]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-15.03.38:029][996]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.03.38:038][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.03.38:038][996]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:03:38)
+[2020.10.27-15.03.38:038][996]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.03.38:040][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002281s)
+[2020.10.27-15.03.38:042][996]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.03.38:042][996]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B58318A400), frame # 172996
+[2020.10.27-15.03.38:042][996]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B582392C00), frame # 172996
+[2020.10.27-15.03.38:042][996]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2020.10.27-15.03.38:042][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003932s)
+[2020.10.27-15.03.38:060][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.03.38:063][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.03.38:063][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.03.38:064][996]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.03.38:064][996]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.03.38:070][996]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.03.38:070][996]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.03.38:088][996]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.03.38:088][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.03.38:088][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.03.38:088][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.03.38:088][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.03.38:100][996]LogInit: FAudioDevice initialized.
+[2020.10.27-15.03.38:109][996]LogLoad: Game class is 'GameModeBase'
+[2020.10.27-15.03.38:110][996]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.03.38
+[2020.10.27-15.03.38:111][996]LogWorld: Bringing up level for play took: 0.000460
+[2020.10.27-15.03.38:111][996]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.10.27-15.03.38:113][996]PIE: Server logged in
+[2020.10.27-15.03.38:113][996]PIE: Play in editor total start time 0,077 seconds.
+[2020.10.27-15.03.45:757][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.03.45:757][905]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.03.45:757][905]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.03.45:757][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.03.45:765][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.03.45:768][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.03.45:801][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.03.45:801][905]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B582392C00), frame # 173905
+[2020.10.27-15.03.45:802][905]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B58318A400), frame # 173905
+[2020.10.27-15.03.45:803][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.27-15.03.45:829][906]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.27-15.03.52:781][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.27-15.03.54:251][657]LogSlate: Window 'Save Content' being destroyed
+[2020.10.27-15.03.55:058][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.27-15.03.55:084][745]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_Default3DFAEA844630CDCA825AC49754533DD7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.27-15.03.55:107][745]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.27-15.03.55:107][745]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.27-15.04.01:019][393]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.27-15.05.15:547][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.05.15:557][920]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP942EBEC042813412DECB67BC179C2C45.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.05.15:567][920]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.05.15:567][920]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.05.20:386][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.05.20:398][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.05.20:399][481]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:05:20)
+[2020.10.27-15.05.20:399][481]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.05.20:401][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2020.10.27-15.05.20:402][481]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.05.20:402][481]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5BBAC2400), frame # 180481
+[2020.10.27-15.05.20:402][481]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B546A3A840), frame # 180481
+[2020.10.27-15.05.20:402][481]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.10.27-15.05.20:402][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003766s)
+[2020.10.27-15.05.20:424][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.05.20:427][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.05.20:427][481]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.05.20:427][481]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.05.20:434][481]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.05.20:434][481]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.05.20:454][481]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.05.20:454][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.05.20:454][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.05.20:454][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.05.20:454][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.05.20:467][481]LogInit: FAudioDevice initialized.
+[2020.10.27-15.05.20:477][481]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.05.20:478][481]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.05.20
+[2020.10.27-15.05.20:478][481]LogWorld: Bringing up level for play took: 0.000448
+[2020.10.27-15.05.20:479][481]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.10.27-15.05.20:490][481]PIE: Server logged in
+[2020.10.27-15.05.20:492][481]PIE: Play in editor total start time 0,093 seconds.
+[2020.10.27-15.05.29:404][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.05.29:404][540]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.05.29:404][540]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.05.29:404][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.05.29:414][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.05.29:417][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.05.29:433][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.05.29:449][540]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B546A3A840), frame # 181540
+[2020.10.27-15.05.29:449][540]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5BBAC2400), frame # 181540
+[2020.10.27-15.05.29:451][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.27-15.05.29:478][541]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.10.27-15.05.58:009][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.05.58:024][825]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPCB24AD95466721E6EDC2618418017EB6.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.05.58:035][825]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.05.58:035][825]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.05.58:768][907]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.05.58:803][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.27-15.05.59:559][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.05.59:574][984]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP053F06A348E2286128096B9726851822.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.05.59:583][984]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.05.59:583][984]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.06.01:444][175]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.06.01:451][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.06.01:451][175]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:06:01)
+[2020.10.27-15.06.01:482][175]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.06.01:484][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002137s)
+[2020.10.27-15.06.01:486][175]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.06.01:486][175]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5B84FE600), frame # 185175
+[2020.10.27-15.06.01:486][175]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5E3DD4180), frame # 185175
+[2020.10.27-15.06.01:486][175]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2020.10.27-15.06.01:486][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003806s)
+[2020.10.27-15.06.01:505][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.06.01:506][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.06.01:506][175]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.06.01:506][175]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.06.01:512][175]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.06.01:512][175]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.06.01:530][175]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.06.01:531][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.06.01:531][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.06.01:531][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.06.01:531][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.06.01:543][175]LogInit: FAudioDevice initialized.
+[2020.10.27-15.06.01:548][175]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.06.01:549][175]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.06.01
+[2020.10.27-15.06.01:550][175]LogWorld: Bringing up level for play took: 0.000505
+[2020.10.27-15.06.01:550][175]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.10.27-15.06.01:552][175]PIE: Server logged in
+[2020.10.27-15.06.01:553][175]PIE: Play in editor total start time 0,102 seconds.
+[2020.10.27-15.06.31:732][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.06.31:732][734]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.06.31:732][734]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.06.31:733][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.06.31:740][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.06.31:743][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.06.31:774][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.06.31:774][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5E3DD4180), frame # 188734
+[2020.10.27-15.06.31:774][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5B84FE600), frame # 188734
+[2020.10.27-15.06.31:775][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.10.27-15.06.31:804][735]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.10.27-15.10.36:569][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.10.36:585][675]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP5A40A3CA49668A8E0F387C843D233299.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.10.36:596][675]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.10.36:596][675]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.10.37:754][805]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.10.27-15.10.37:754][805]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.10.27-15.10.46:337][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.10.46:355][819]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPA0020E074D815B08DA15ABB9A10A5427.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.10.46:366][819]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.10.46:366][819]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.11.19:795][676]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.11.21:725][848]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.11.25:527][288]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.11.33:820][ 98]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.11.49:899][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.11.49:915][888]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPD7E6CD4A4D60A46CC8FA57BC9D321A56.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.11.49:925][888]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.11.49:925][888]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.11.51:020][  2]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.11.51:057][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.10.27-15.11.51:467][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.11.51:482][ 41]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP4769E842468336750693F58C3070A7DD.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.11.51:494][ 41]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.11.51:494][ 41]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.13.45:701][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.13.45:713][ 34]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPED6C6CF94DD2D9F2B62233B692289388.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.13.45:724][ 34]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.13.45:724][ 34]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.13.49:085][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.13.49:097][426]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP5C385DA74E5D13EF2D32EE949D091708.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.13.49:107][426]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.13.49:107][426]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.15.07:945][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.15.07:961][670]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP2A50DC9746B0CE9BF807758A766B1D62.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.15.07:971][670]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.15.07:971][670]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.15.09:079][792]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.15.09:117][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.27-15.15.09:511][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.15.09:526][829]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP31DB4CA34898AB5D52969BAB184C67A4.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.15.09:537][829]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.15.09:538][829]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.16.32:700][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.10.27-15.16.33:237][769]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_Default_Auto5FEDA1142475C486BD3A9B1B2FB31F038.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2020.10.27-15.16.33:240][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.568
+[2020.10.27-15.16.33:240][769]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.568
+[2020.10.27-15.16.33:241][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-15.16.33:268][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-15.16.33:268][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-15.16.33:296][769]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto5F2D0E35B4A80F6AB17E6078E86B29A57.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto5.uasset'
+[2020.10.27-15.16.33:297][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode1] ([1] browsable assets)...
+[2020.10.27-15.16.33:297][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode1]
+[2020.10.27-15.16.33:297][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode1" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/GameMode1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.10.27-15.16.33:307][769]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/GameMode1_Auto571E86D2A42D6C7E4D4D12DA4DB0A3A27.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/GameMode1_Auto5.uasset'
+[2020.10.27-15.16.33:307][769]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.10.27-15.18.10:762][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.18.10:776][ 98]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPB901C8464D94B1CAF36BE384568D130A.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.18.10:786][ 98]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.18.10:786][ 98]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.21.13:621][721]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.21.15:949][935]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.21.19:073][291]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-15.21.27:451][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.21.27:467][217]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP345AB56E4B16668BAA3BCE98019E932F.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.21.27:478][217]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.21.27:478][217]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.21.29:885][471]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.21.29:923][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.27-15.21.30:417][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.21.30:432][521]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPF7FBA5644AD709F48EDC8CB144715BB6.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.21.30:445][521]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.21.30:445][521]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.21.41:024][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.21.41:048][420]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP1DC7D96646A68610ED2AA385610DAB6D.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.21.41:059][420]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.21.41:059][420]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.21.41:890][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.21.41:903][508]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP4EF8A6AF4D65D53D4B35D5A48736EF81.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.21.41:914][508]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.21.41:914][508]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.23.20:716][256]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.23.20:727][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.23.20:727][256]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:23:20)
+[2020.10.27-15.23.20:759][256]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.23.20:760][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002385s)
+[2020.10.27-15.23.20:761][256]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.23.20:761][256]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B58E5AB200), frame # 264256
+[2020.10.27-15.23.20:761][256]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5998B6700), frame # 264256
+[2020.10.27-15.23.20:762][256]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2020.10.27-15.23.20:762][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004099s)
+[2020.10.27-15.23.20:781][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.23.20:783][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.23.20:783][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.23.20:784][256]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.23.20:784][256]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.23.20:790][256]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.23.20:790][256]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.23.20:810][256]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.23.20:810][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.23.20:810][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.23.20:810][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.23.20:811][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.23.20:823][256]LogInit: FAudioDevice initialized.
+[2020.10.27-15.23.20:828][256]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.23.20:830][256]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.23.20
+[2020.10.27-15.23.20:830][256]LogWorld: Bringing up level for play took: 0.000682
+[2020.10.27-15.23.20:830][256]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.10.27-15.23.20:832][256]PIE: Server logged in
+[2020.10.27-15.23.20:833][256]PIE: Play in editor total start time 0,107 seconds.
+[2020.10.27-15.23.52:358][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.23.52:358][ 28]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.23.52:358][ 28]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.23.52:358][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.23.52:366][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.23.52:369][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.23.52:401][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.23.52:401][ 28]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5998B6700), frame # 268028
+[2020.10.27-15.23.52:401][ 28]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B58E5AB200), frame # 268028
+[2020.10.27-15.23.52:403][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.10.27-15.23.52:433][ 29]Cmd: SELECT NONE
+[2020.10.27-15.23.52:447][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.10.27-15.23.59:049][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.27-15.24.04:805][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.10.27-15.24.04:820][424]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_Default6E73662D4945515506025897EE573AB9.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.27-15.24.04:846][424]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.27-15.24.04:846][424]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.27-15.24.05:537][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.10.27-15.24.05:549][500]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_Default5E524E914CA7C572BF6BE49BDAB1DD51.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.27-15.24.05:573][500]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.27-15.24.05:573][500]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.27-15.24.11:035][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.24.11:049][131]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPC92DFBA7419DB2FE020241BBB50B7057.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.24.11:060][131]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.24.11:060][131]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.25.48:130][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.25.48:147][480]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP47757B1043696F6F7B202E9F2F803B0E.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.25.48:158][480]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.25.48:158][480]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.25.49:154][593]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.25.49:189][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.27-15.25.49:728][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.25.49:744][649]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP94256805443CB68B28DDB88CAD300ADA.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.25.49:756][649]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.25.49:756][649]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.25.57:367][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.25.57:379][540]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP9FD5100A44C22E204F94A18F7EA571BA.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.25.57:390][540]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.25.57:390][540]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.25.57:766][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.25.57:778][583]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP13F8623A4945E908C3C2FBA59EA797AA.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.25.57:791][583]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.25.57:791][583]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.29.45:056][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.29.45:538][316]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPB36AB36B4A6AC038407B20A8E713E783.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.29.45:551][316]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.29.45:551][316]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.29.46:114][382]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.29.46:167][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.27-15.29.47:422][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.29.47:440][517]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP4F757B254B7D6831623E809455EBB3CE.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.29.47:452][517]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.29.47:452][517]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.30.22:188][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.30.22:206][553]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP646050424D8EB9993AC2E791D324D50F.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.30.22:216][553]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.30.22:216][553]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.30.23:099][655]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.30.23:135][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.27-15.30.23:822][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.30.23:840][720]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP81D81FEC410AEDEA34EB6AAD5D795F75.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.30.23:851][720]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.30.23:851][720]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.30.25:614][904]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.30.25:622][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.30.25:622][904]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:30:25)
+[2020.10.27-15.30.25:644][904]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.30.25:646][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2020.10.27-15.30.25:648][904]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.30.25:648][904]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5F44E4200), frame # 304904
+[2020.10.27-15.30.25:648][904]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5B9A54900), frame # 304904
+[2020.10.27-15.30.25:648][904]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2020.10.27-15.30.25:648][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004443s)
+[2020.10.27-15.30.25:666][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.10.27-15.30.25:667][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.30.25:667][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.30.25:667][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.30.25:668][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.30.25:668][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.30.25:668][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.30.25:668][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.30.25:668][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.30.25:668][904]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.30.25:668][904]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.30.25:674][904]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.30.25:674][904]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.30.25:693][904]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.30.25:694][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.30.25:694][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.30.25:694][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.30.25:694][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.30.25:706][904]LogInit: FAudioDevice initialized.
+[2020.10.27-15.30.25:713][904]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.30.25:714][904]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.30.25
+[2020.10.27-15.30.25:714][904]LogWorld: Bringing up level for play took: 0.000561
+[2020.10.27-15.30.25:714][904]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.10.27-15.30.25:716][904]PIE: Server logged in
+[2020.10.27-15.30.25:717][904]PIE: Play in editor total start time 0,095 seconds.
+[2020.10.27-15.30.32:745][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.30.32:745][738]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.30.32:745][738]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.30.32:745][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.30.32:754][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.30.32:757][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.30.32:788][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.30.32:788][738]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5B9A54900), frame # 305738
+[2020.10.27-15.30.32:789][738]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5F44E4200), frame # 305738
+[2020.10.27-15.30.32:790][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.10.27-15.30.32:819][739]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.10.27-15.31.02:384][173]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.10.27-15.31.02:384][173]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.10.27-15.31.11:266][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.31.11:286][172]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP14A795004194EF6FAFCC24AE17D1E1F8.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.31.11:296][172]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.31.11:296][172]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.31.26:120][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.31.26:140][871]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP8DD5D4D14B75756551772CAC33C5411C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.31.26:151][871]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.31.26:151][871]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.31.29:879][272]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.31.29:915][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.10.27-15.31.30:502][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.31.30:520][328]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP646F963543E715F7F139EB81F6FBF5F9.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.31.30:535][328]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.31.30:535][328]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.31.32:545][539]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.27-15.32.06:601][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.32.06:620][379]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPE30BFC434832B23402FCDF81352752C3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.32.06:636][379]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.32.06:636][379]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.32.10:720][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.32.10:738][844]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPC72C126E444F495717E89996C0614CFC.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.32.10:751][844]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.32.10:751][844]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.32.16:353][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.32.16:370][507]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP4953798047FD6026DCCF51896918AF3E.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.32.16:384][507]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.32.16:384][507]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.32.17:410][619]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.32.17:449][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.27-15.32.17:952][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.32.17:971][667]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP7086C2A84BFCED60609B44B4F6EE6FF9.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.32.17:981][667]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.32.17:981][667]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.32.19:419][805]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.32.19:428][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.32.19:428][805]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:32:19)
+[2020.10.27-15.32.19:450][805]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.32.19:452][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002374s)
+[2020.10.27-15.32.19:453][805]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.32.19:453][805]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5C6679200), frame # 317805
+[2020.10.27-15.32.19:453][805]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5992A11C0), frame # 317805
+[2020.10.27-15.32.19:453][805]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.10.27-15.32.19:453][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003675s)
+[2020.10.27-15.32.19:472][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.32.19:473][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.32.19:473][805]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.32.19:473][805]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.32.19:480][805]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.32.19:480][805]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.32.19:499][805]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.32.19:499][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.32.19:499][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.32.19:499][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.32.19:500][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.32.19:512][805]LogInit: FAudioDevice initialized.
+[2020.10.27-15.32.19:522][805]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.32.19:523][805]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.32.19
+[2020.10.27-15.32.19:523][805]LogWorld: Bringing up level for play took: 0.000459
+[2020.10.27-15.32.19:523][805]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.10.27-15.32.19:525][805]PIE: Server logged in
+[2020.10.27-15.32.19:526][805]PIE: Play in editor total start time 0,099 seconds.
+[2020.10.27-15.32.33:810][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.32.33:811][510]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.32.33:811][510]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.32.33:811][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.32.33:821][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.32.33:824][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.32.33:857][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.32.33:857][510]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5992A11C0), frame # 319510
+[2020.10.27-15.32.33:857][510]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5C6679200), frame # 319510
+[2020.10.27-15.32.33:859][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.10.27-15.32.33:892][511]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.10.27-15.32.59:151][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.32.59:171][368]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPA8A985AE442C976A0D37E0A11A7B0B9C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.32.59:182][368]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.32.59:182][368]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.03:068][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.33.03:086][829]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPD83D77FD4281410949EA35B43D4D3BF7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.33.03:097][829]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.33.03:097][829]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.04:344][968]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.33.04:383][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.10.27-15.33.04:883][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.33.04:902][ 16]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP79270C3646D2EC212B81A8BAA66A5FEC.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.33.04:911][ 16]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.33.04:911][ 16]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.05:935][124]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.33.05:943][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.33.05:943][124]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:33:05)
+[2020.10.27-15.33.05:979][124]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.05:981][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002205s)
+[2020.10.27-15.33.05:982][124]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.33.05:982][124]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5BBC32600), frame # 323124
+[2020.10.27-15.33.05:982][124]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5920C5300), frame # 323124
+[2020.10.27-15.33.05:982][124]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2020.10.27-15.33.05:982][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003784s)
+[2020.10.27-15.33.06:001][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.27-15.33.06:002][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.33.06:003][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.33.06:003][124]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.33.06:003][124]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.33.06:009][124]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.33.06:009][124]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.33.06:027][124]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.33.06:027][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.33.06:027][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.33.06:027][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.33.06:027][124]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.33.06:039][124]LogInit: FAudioDevice initialized.
+[2020.10.27-15.33.06:045][124]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.33.06:046][124]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.33.06
+[2020.10.27-15.33.06:046][124]LogWorld: Bringing up level for play took: 0.000437
+[2020.10.27-15.33.06:047][124]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.27-15.33.06:049][124]PIE: Server logged in
+[2020.10.27-15.33.06:050][124]PIE: Play in editor total start time 0,107 seconds.
+[2020.10.27-15.33.10:269][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.10:269][623]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.10:269][623]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.33.10:269][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.10:275][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.33.10:277][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.10:308][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.10:309][623]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5920C5300), frame # 323623
+[2020.10.27-15.33.10:309][623]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5BBC32600), frame # 323623
+[2020.10.27-15.33.10:310][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.27-15.33.10:339][624]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.27-15.33.15:215][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.33.15:234][183]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP0339C8A046DEE4D530FCB785FDDF5C2B.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.33.15:245][183]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.33.15:245][183]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.16:047][274]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.33.16:082][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.27-15.33.16:763][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.33.16:782][345]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP2462568B4FF9183AC2A9E992CD263FF7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.33.16:793][345]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.33.16:793][345]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.31:267][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.33.31:275][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.33.31:275][691]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:33:31)
+[2020.10.27-15.33.31:297][691]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.31:299][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2020.10.27-15.33.31:300][691]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.33.31:300][691]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5D984A200), frame # 324691
+[2020.10.27-15.33.31:301][691]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B599C347C0), frame # 324691
+[2020.10.27-15.33.31:301][691]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2020.10.27-15.33.31:301][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003748s)
+[2020.10.27-15.33.31:318][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.33.31:320][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.33.31:320][691]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.33.31:320][691]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.33.31:326][691]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.33.31:326][691]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.33.31:344][691]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.33.31:344][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.33.31:344][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.33.31:344][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.33.31:344][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.33.31:356][691]LogInit: FAudioDevice initialized.
+[2020.10.27-15.33.31:363][691]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.33.31:364][691]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.33.31
+[2020.10.27-15.33.31:364][691]LogWorld: Bringing up level for play took: 0.000445
+[2020.10.27-15.33.31:365][691]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.10.27-15.33.31:367][691]PIE: Server logged in
+[2020.10.27-15.33.31:368][691]PIE: Play in editor total start time 0,093 seconds.
+[2020.10.27-15.33.34:508][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.34:508][ 58]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.34:508][ 58]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.33.34:508][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.34:517][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.33.34:520][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.34:551][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.34:552][ 58]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B599C347C0), frame # 325058
+[2020.10.27-15.33.34:552][ 58]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5D984A200), frame # 325058
+[2020.10.27-15.33.34:554][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.10.27-15.33.34:582][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.10.27-15.33.41:134][816]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.33.41:170][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.10.27-15.33.41:578][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.33.41:597][854]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBPC7FF0F214E142C958A5B4080563628E4.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.33.41:608][854]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.33.41:608][854]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.33.42:926][  6]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.33.42:934][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.33.42:935][  6]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:33:42)
+[2020.10.27-15.33.42:967][  6]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.42:969][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002165s)
+[2020.10.27-15.33.42:971][  6]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.33.42:971][  6]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B60301F800), frame # 326006
+[2020.10.27-15.33.42:971][  6]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B599C34540), frame # 326006
+[2020.10.27-15.33.42:971][  6]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2020.10.27-15.33.42:971][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003844s)
+[2020.10.27-15.33.42:988][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.33.42:989][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.33.42:989][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.33.42:990][  6]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.33.42:990][  6]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.33.42:996][  6]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.33.42:996][  6]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.33.43:014][  6]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.33.43:014][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.33.43:014][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.33.43:014][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.33.43:014][  6]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.33.43:026][  6]LogInit: FAudioDevice initialized.
+[2020.10.27-15.33.43:034][  6]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.33.43:035][  6]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.33.43
+[2020.10.27-15.33.43:035][  6]LogWorld: Bringing up level for play took: 0.000435
+[2020.10.27-15.33.43:035][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.27-15.33.43:037][  6]PIE: Server logged in
+[2020.10.27-15.33.43:038][  6]PIE: Play in editor total start time 0,104 seconds.
+[2020.10.27-15.33.45:408][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.45:408][283]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.33.45:408][283]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.33.45:408][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.45:416][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.33.45:419][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.33.45:450][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.33.45:451][283]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B599C34540), frame # 326283
+[2020.10.27-15.33.45:451][283]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B60301F800), frame # 326283
+[2020.10.27-15.33.45:452][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.27-15.33.45:480][284]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.27-15.49.34:155][581]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.27-15.49.45:879][922]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.27-15.50.14:462][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.10.27-15.50.14:466][624]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.025
+[2020.10.27-15.50.14:466][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-15.50.14:466][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-15.50.14:483][624]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto656B496864C8FB463A9AC37B9BA4F12B2.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto6.uasset'
+[2020.10.27-15.50.14:484][624]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.10.27-15.50.15:483][738]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.27-15.50.39:463][616]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.50.39:500][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.10.27-15.50.39:987][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.50.40:007][664]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP5B861A5D464A844E25DCEE8CC53509A9.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.50.40:020][664]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.50.40:020][664]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.52.54:185][222]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.53.02:134][910]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.27-15.53.03:727][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.53.07:121][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.27-15.53.07:121][429]Can't find target actor or component.
+[2020.10.27-15.53.07:532][474]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.27-15.53.07:532][474]Can't find target actor or component.
+[2020.10.27-15.53.11:753][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.27-15.53.17:189][570]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.27-15.53.17:641][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.27-15.53.17:668][616]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Minimal_Default76FF927246E03329AA8836A2639C2DB3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.27-15.53.17:681][616]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 5
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.10.27-15.53.17:693][616]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.10.27-15.53.17:693][616]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.27-15.53.20:729][940]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.27-15.53.22:660][164]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.53.22:669][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.53.22:669][164]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:53:22)
+[2020.10.27-15.53.22:703][164]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.53.22:705][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002231s)
+[2020.10.27-15.53.22:706][164]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.53.22:707][164]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5D26A3000), frame # 353164
+[2020.10.27-15.53.22:707][164]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5922CC900), frame # 353164
+[2020.10.27-15.53.22:707][164]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2020.10.27-15.53.22:707][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004004s)
+[2020.10.27-15.53.22:725][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.53.22:727][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.53.22:727][164]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.53.22:727][164]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.53.22:734][164]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.53.22:734][164]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.53.22:752][164]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.53.22:752][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.53.22:752][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.53.22:752][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.53.22:752][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.53.22:764][164]LogInit: FAudioDevice initialized.
+[2020.10.27-15.53.22:773][164]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.53.22:774][164]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.53.22
+[2020.10.27-15.53.22:774][164]LogWorld: Bringing up level for play took: 0.000489
+[2020.10.27-15.53.22:774][164]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.27-15.53.22:777][164]PIE: Server logged in
+[2020.10.27-15.53.22:778][164]PIE: Play in editor total start time 0,11 seconds.
+[2020.10.27-15.53.29:553][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.53.29:553][970]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.53.29:554][970]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.53.29:554][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.53.29:562][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.53.29:565][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.53.29:582][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.53.29:597][970]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5922CC900), frame # 353970
+[2020.10.27-15.53.29:597][970]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5D26A3000), frame # 353970
+[2020.10.27-15.53.29:599][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.27-15.53.29:627][971]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.27-15.53.37:543][879]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.53.37:580][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.27-15.53.38:611][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.53.38:630][983]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP499C075F4552B64C10D157B7855B6E83.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.53.38:643][983]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.53.38:643][983]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.53.40:384][165]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.53.40:392][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-15.53.40:392][165]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:53:40)
+[2020.10.27-15.53.40:422][165]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.53.40:424][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
+[2020.10.27-15.53.40:425][165]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.53.40:425][165]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B582113A00), frame # 355165
+[2020.10.27-15.53.40:426][165]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B547C102C0), frame # 355165
+[2020.10.27-15.53.40:426][165]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2020.10.27-15.53.40:426][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003737s)
+[2020.10.27-15.53.40:443][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.53.40:444][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.53.40:444][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.53.40:445][165]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.53.40:445][165]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.53.40:450][165]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.53.40:450][165]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.53.40:468][165]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.53.40:468][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.53.40:468][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.53.40:469][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.53.40:469][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.53.40:480][165]LogInit: FAudioDevice initialized.
+[2020.10.27-15.53.40:486][165]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.53.40:487][165]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.53.40
+[2020.10.27-15.53.40:488][165]LogWorld: Bringing up level for play took: 0.000443
+[2020.10.27-15.53.40:488][165]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.27-15.53.40:490][165]PIE: Server logged in
+[2020.10.27-15.53.40:491][165]PIE: Play in editor total start time 0,099 seconds.
+[2020.10.27-15.53.55:542][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.53.55:542][959]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.53.55:542][959]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.53.55:542][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.53.55:549][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.53.55:551][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.53.55:583][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.53.55:583][959]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B547C102C0), frame # 356959
+[2020.10.27-15.53.55:583][959]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B582113A00), frame # 356959
+[2020.10.27-15.53.55:585][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.27-15.53.55:609][960]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.27-15.54.00:842][552]BlueprintLog: New page: Compile CharacterBP
+[2020.10.27-15.54.00:878][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.27-15.54.01:379][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.54.01:398][598]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP944F0E6645F0817D1F259BBE124665D6.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.54.01:411][598]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.54.01:411][598]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-15.56.45:980][298]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-15.56.45:987][298]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.27-15.56.45:988][298]LogPlayLevel: [PlayLevel] Compiling CharacterBP before play...
+[2020.10.27-15.56.46:039][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.10.27-15.56.46:040][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2020.10.27-15.56.46:040][298]PIE: New page: PIE session: Minimal_Default (27 oct. 2020 à 17:56:46)
+[2020.10.27-15.56.46:066][298]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.56.46:068][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002113s)
+[2020.10.27-15.56.46:069][298]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.27-15.56.46:069][298]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5FFDE8E00), frame # 367298
+[2020.10.27-15.56.46:069][298]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5998B7380), frame # 367298
+[2020.10.27-15.56.46:070][298]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2020.10.27-15.56.46:070][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003640s)
+[2020.10.27-15.56.46:087][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-15.56.46:088][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-15.56.46:088][298]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-15.56.46:088][298]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-15.56.46:094][298]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-15.56.46:094][298]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-15.56.46:113][298]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.27-15.56.46:113][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-15.56.46:113][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-15.56.46:113][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-15.56.46:114][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-15.56.46:125][298]LogInit: FAudioDevice initialized.
+[2020.10.27-15.56.46:131][298]LogLoad: Game class is 'GameMode1_C'
+[2020.10.27-15.56.46:132][298]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.27-16.56.46
+[2020.10.27-15.56.46:132][298]LogWorld: Bringing up level for play took: 0.000434
+[2020.10.27-15.56.46:132][298]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.27-15.56.46:134][298]PIE: Server logged in
+[2020.10.27-15.56.46:135][298]PIE: Play in editor total start time 0,148 seconds.
+[2020.10.27-15.57.12:356][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.57.12:356][436]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.27-15.57.12:356][436]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-15.57.12:356][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.57.12:362][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-15.57.12:365][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-15.57.12:380][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-15.57.12:395][436]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5998B7380), frame # 370436
+[2020.10.27-15.57.12:395][436]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5FFDE8E00), frame # 370436
+[2020.10.27-15.57.12:397][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.10.27-15.57.12:427][437]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.27-15.59.37:790][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset" SILENT=true
+[2020.10.27-15.59.37:810][984]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP97B1BF83488D1B4B6754DC9E2405B81D.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
+[2020.10.27-15.59.37:823][984]AssetCheck: New page: Asset Save: CharacterBP
+[2020.10.27-15.59.37:823][984]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.27-16.04.06:325][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.27-16.04.06:328][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.025
+[2020.10.27-16.04.06:328][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterBP] ([1] browsable assets)...
+[2020.10.27-16.04.06:347][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/CharacterBP.CharacterBP]
+[2020.10.27-16.04.06:347][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterBP]
+[2020.10.27-16.04.06:371][821]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharacterBP_Auto7465601DE40D27B01B19C7C813E9AD69B.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/CharacterBP_Auto7.uasset'
+[2020.10.27-16.04.06:372][821]LogFileHelpers: Auto-saving content packages took 0.044
