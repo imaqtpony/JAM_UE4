@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Jam_UE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{899548EE-B216-4943-B402-C8B91FCFFBDD}</UniqueIdentifier>
+      <UniqueIdentifier>{E59A22F6-93DA-4A0E-AEAA-49A2F9E30ECC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Jam_UE4.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{75EB425E-C7F4-47AE-A4FE-22B3BF458FCD}</UniqueIdentifier>
+      <UniqueIdentifier>{BA52394F-9DC9-4DD5-B730-A7ABFCC090FE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Jam_UE4">
-      <UniqueIdentifier>{DA855761-0E45-4535-BDA5-84B5B7BAA2F1}</UniqueIdentifier>
+      <UniqueIdentifier>{2D45E3D0-F905-4DE5-A582-F45368AE4C16}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Jam_UE4\DropGem.cpp">
       <Filter>Source\Jam_UE4</Filter>
@@ -51,6 +51,12 @@
       <Filter>Source\Jam_UE4</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Jam_UE4\Jam_UE4GameModeBase.h">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Jam_UE4\ScoreManager.cpp">
+      <Filter>Source\Jam_UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jam_UE4\ScoreManager.h">
       <Filter>Source\Jam_UE4</Filter>
     </ClInclude>
   </ItemGroup>

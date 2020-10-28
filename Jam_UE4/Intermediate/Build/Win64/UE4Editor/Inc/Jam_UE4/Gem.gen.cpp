@@ -114,9 +114,7 @@ void EmptyLinkFunctionForGeneratedCodeGem() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::Function_MetaDataParams[] = {
-		{ "Comment", "//virtual void BeginPlay() override;\n" },
 		{ "ModuleRelativePath", "Gem.h" },
-		{ "ToolTip", "virtual void BeginPlay() override;" },
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AGem, nullptr, "NotifyActorBeginOverlap", nullptr, nullptr, sizeof(Gem_eventNotifyActorBeginOverlap_Parms), Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AGem_NotifyActorBeginOverlap_Statics::Function_MetaDataParams)) };
@@ -154,7 +152,7 @@ void EmptyLinkFunctionForGeneratedCodeGem() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AGem_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AGem_InstantiateGem, "InstantiateGem" }, // 2653099448
-		{ &Z_Construct_UFunction_AGem_NotifyActorBeginOverlap, "NotifyActorBeginOverlap" }, // 1592321469
+		{ &Z_Construct_UFunction_AGem_NotifyActorBeginOverlap, "NotifyActorBeginOverlap" }, // 2919634121
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGem_Statics::Class_MetaDataParams[] = {
@@ -199,7 +197,7 @@ void EmptyLinkFunctionForGeneratedCodeGem() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGem, 1244703338);
+	IMPLEMENT_CLASS(AGem, 2126732720);
 	template<> JAM_UE4_API UClass* StaticClass<AGem>()
 	{
 		return AGem::StaticClass();

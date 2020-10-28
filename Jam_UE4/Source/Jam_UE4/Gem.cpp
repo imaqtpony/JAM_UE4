@@ -3,6 +3,8 @@
 
 #include "Gem.h"
 #include "Components/SphereComponent.h"
+//#include "GameplayTagContainer.h"
+
 
 // Sets default values
 AGem::AGem()
@@ -12,9 +14,6 @@ AGem::AGem()
 	// Both colliders need to have this set to true for events to fire
 	Trigger->SetGenerateOverlapEvents(true);
 
-	// Set the collision mode for the collider
-	// This mode will only enable the collider for raycasts, sweeps, and overlaps
-	//Trigger.SetCollisionEnabled(ECollisionEnabled::QueryOnly);
 
 	FScriptDelegate BeginOverlap;
 	BeginOverlap.BindUFunction(this, TEXT("NotifyActorBeginOverlap"));
@@ -23,22 +22,11 @@ AGem::AGem()
 	Trigger->OnComponentBeginOverlap.Add(BeginOverlap);
 	//OnOverlapBegin.AddDynamic(this, &AGem::OnOverlapBegin);
 
+	//Tags.AddUnique(TEXT("MyTag"));
+
+
 }
 
-// Called when the game starts or when spawned
-//void AGem::BeginPlay()
-//{
-//	Super::BeginPlay();
-//
-//}
-
-//void AGem::OnOverlapBegin(class AActor* OverlappedActor) 
-//{
-//	if (OverlappedActor->ActorHasTag(FName(TEXT("Player"))))
-//	{
-//		// ...
-//	}
-//}
 
 void AGem::NotifyActorBeginOverlap(AActor* Other) 
 {
@@ -47,9 +35,7 @@ void AGem::NotifyActorBeginOverlap(AActor* Other)
 	{
 
 
-		// ...
-		printf("Triggered !");
-
+		Destroy();
 	}
 }
 

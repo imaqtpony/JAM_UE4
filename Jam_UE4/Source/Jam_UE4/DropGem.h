@@ -16,8 +16,8 @@ public:
 	// Sets default values for this component's properties
 	UDropGem();
 
-	UPROPERTY()
-	AGem* thisGem;
+	/*UPROPERTY()
+	AGem* thisGem;*/
 
 	virtual void BeginPlay() override;
 
