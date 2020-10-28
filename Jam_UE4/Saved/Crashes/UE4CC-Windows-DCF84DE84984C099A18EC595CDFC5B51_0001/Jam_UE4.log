@@ -684,32 +684,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 Script Stack (0 frames):
 
 [2020.10.28-16.00.29:113][637]LogWindows: Windows GetLastError: L’opération a réussi. (0)
-[2020.10.28-16.00.30:391][637]LogWindows: Error: === Critical error: ===
-[2020.10.28-16.00.30:391][637]LogWindows: Error: 
-[2020.10.28-16.00.30:391][637]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/Obj.cpp] [Line: 993] 
-[2020.10.28-16.00.30:391][637]LogWindows: Error: DropGem None.Default__DropGem failed to route BeginDestroy
-[2020.10.28-16.00.30:391][637]LogWindows: Error: 
-[2020.10.28-16.00.30:391][637]LogWindows: Error: 
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffdb5753b29 KERNELBASE.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd690aec66 UE4Editor-Core.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd690b2048 UE4Editor-Core.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd68e3e52d UE4Editor-Core.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd69bfbe5d UE4Editor-CoreUObject.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd69bda02b UE4Editor-CoreUObject.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd69b984e3 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd69c3574f UE4Editor-CoreUObject.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffd69a606c7 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b34eed UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b3482d UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b3aeb5 UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b3bb07 UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b3bb5a UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b4e31d UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ff787b5145a UE4Editor.exe!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffdb69f7c24 KERNEL32.DLL!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: [Callstack] 0x00007ffdb834cea1 ntdll.dll!UnknownFunction []
-[2020.10.28-16.00.30:391][637]LogWindows: Error: 
-[2020.10.28-16.00.30:420][637]LogExit: Executing StaticShutdownAfterError
-[2020.10.28-16.00.30:422][637]LogWindows: FPlatformMisc::RequestExit(1)
-[2020.10.28-16.00.30:422][637]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2020.10.28-16.00.30:452][637]Log file closed, 10/28/20 17:00:30
