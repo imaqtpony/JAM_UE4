@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Jam_UE4",
-			"Path": "E:\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4.Target.cs",
+			"Path": "C:\\Users\\Florian\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Jam_UE4Editor",
-			"Path": "E:\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4Editor.Target.cs",
+			"Path": "C:\\Users\\Florian\\Documents\\Unreal Projects\\JAM_UE4\\Jam_UE4\\Source\\Jam_UE4Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

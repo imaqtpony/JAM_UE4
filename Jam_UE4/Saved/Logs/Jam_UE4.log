@@ -2356,3 +2356,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-13.09.16:378][503]LogSavePackage: Moving '../../../../JAM/JAM_UE4/Jam_UE4/Saved/CharacterBP16BB20054F633E4A5C3F2B8D18D9023C.tmp' to '../../../../JAM/JAM_UE4/Jam_UE4/Content/Character/CharacterBP.uasset'
 [2020.10.28-13.09.16:393][503]AssetCheck: New page: Asset Save: CharacterBP
 [2020.10.28-13.09.16:393][503]LogContentValidation: Display: Validating Blueprint /Game/Character/CharacterBP.CharacterBP
+[2020.10.28-13.10.48:670][977]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/BulletBP.
+[2020.10.28-13.10.48:676][977]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/CharAnimBlueprint.
+[2020.10.28-13.10.48:683][977]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/GunBP.
