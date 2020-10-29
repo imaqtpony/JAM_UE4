@@ -2792,3 +2792,1750 @@ Please remove it first.
 [2020.10.29-11.29.14:835][377]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level66D5B7F04AB050FF651934AD0A06416B.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
 [2020.10.29-11.29.14:871][377]AssetCheck: New page: Asset Save: Level
 [2020.10.29-11.29.14:872][377]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-11.31.40:695][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Caillou_1.fbx)
+[2020.10.29-11.31.40:808][115]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Caillou_1.fbx
+[2020.10.29-11.31.40:867][115]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.31.47:472][115]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-11.31.47:500][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Isle.fbx)
+[2020.10.29-11.31.47:501][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Pont.fbx)
+[2020.10.29-11.31.47:502][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Test.fbx)
+[2020.10.29-11.31.47:502][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_HalloweenTree_Animated.FBX)
+[2020.10.29-11.31.47:502][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_PalmTree_Animated.FBX)
+[2020.10.29-11.31.47:503][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Boat.fbx)
+[2020.10.29-11.31.51:491][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Isle.fbx)
+[2020.10.29-11.31.51:499][246]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Isle.fbx
+[2020.10.29-11.31.51:515][246]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.31.57:611][246]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-11.31.57:753][246]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.10.29-11.31.57:785][246]LogMaterial: Display: Missing cached shader map for material Rock, compiling. 
+[2020.10.29-11.31.57:800][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-11.31.57:800][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-11.31.57:800][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-11.31.57:800][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-11.31.57:811][246]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.10.29-11.31.57:828][246]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-11.31.57:918][246]LogStaticMesh: Building static mesh Isle_Plane...
+[2020.10.29-11.31.57:929][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Plane.Isle_Plane
+[2020.10.29-11.31.57:939][246]LogFbx: Display: Triangulating static mesh Cube
+[2020.10.29-11.31.57:940][246]LogStaticMesh: Building static mesh Isle_Cube...
+[2020.10.29-11.31.57:940][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube.Isle_Cube
+[2020.10.29-11.31.57:945][246]LogFbx: Display: Triangulating static mesh Plane.003
+[2020.10.29-11.31.57:953][246]LogStaticMesh: Building static mesh Isle_Plane_003...
+[2020.10.29-11.31.57:961][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Plane_003.Isle_Plane_003
+[2020.10.29-11.31.57:972][246]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.10.29-11.31.57:980][246]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-11.31.57:999][246]LogStaticMesh: Building static mesh Isle_Pont...
+[2020.10.29-11.31.58:013][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Pont.Isle_Pont
+[2020.10.29-11.31.58:021][246]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.10.29-11.31.58:022][246]LogStaticMesh: Building static mesh Isle_Cube_001...
+[2020.10.29-11.31.58:022][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_001.Isle_Cube_001
+[2020.10.29-11.31.58:028][246]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.10.29-11.31.58:029][246]LogStaticMesh: Building static mesh Isle_Cube_002...
+[2020.10.29-11.31.58:030][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_002.Isle_Cube_002
+[2020.10.29-11.31.58:036][246]LogFbx: Display: Triangulating static mesh Cube.003
+[2020.10.29-11.31.58:037][246]LogStaticMesh: Building static mesh Isle_Cube_003...
+[2020.10.29-11.31.58:038][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_003.Isle_Cube_003
+[2020.10.29-11.31.58:045][246]LogFbx: Display: Triangulating static mesh Cube.006
+[2020.10.29-11.31.58:046][246]LogStaticMesh: Building static mesh Isle_Cube_006...
+[2020.10.29-11.31.58:047][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_006.Isle_Cube_006
+[2020.10.29-11.31.58:053][246]LogFbx: Display: Triangulating static mesh Cube.005
+[2020.10.29-11.31.58:054][246]LogStaticMesh: Building static mesh Isle_Cube_005...
+[2020.10.29-11.31.58:055][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_005.Isle_Cube_005
+[2020.10.29-11.31.58:061][246]LogFbx: Display: Triangulating static mesh Cube.004
+[2020.10.29-11.31.58:062][246]LogStaticMesh: Building static mesh Isle_Cube_004...
+[2020.10.29-11.31.58:063][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_004.Isle_Cube_004
+[2020.10.29-11.31.58:069][246]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2020.10.29-11.31.58:082][246]LogStaticMesh: Building static mesh Isle_BezierCurve_001...
+[2020.10.29-11.31.58:085][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_001.Isle_BezierCurve_001
+[2020.10.29-11.31.58:093][246]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2020.10.29-11.31.58:104][246]LogStaticMesh: Building static mesh Isle_BezierCurve_002...
+[2020.10.29-11.31.58:108][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_002.Isle_BezierCurve_002
+[2020.10.29-11.31.58:115][246]LogFbx: Display: Triangulating static mesh BezierCurve.005
+[2020.10.29-11.31.58:130][246]LogStaticMesh: Building static mesh Isle_BezierCurve_005...
+[2020.10.29-11.31.58:134][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_005.Isle_BezierCurve_005
+[2020.10.29-11.31.58:142][246]LogFbx: Display: Triangulating static mesh BezierCurve.004
+[2020.10.29-11.31.58:155][246]LogStaticMesh: Building static mesh Isle_BezierCurve_004...
+[2020.10.29-11.31.58:158][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_004.Isle_BezierCurve_004
+[2020.10.29-11.31.58:165][246]LogFbx: Display: Triangulating static mesh BezierCurve.003
+[2020.10.29-11.31.58:177][246]LogStaticMesh: Building static mesh Isle_BezierCurve_003...
+[2020.10.29-11.31.58:179][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_003.Isle_BezierCurve_003
+[2020.10.29-11.31.58:187][246]LogFbx: Display: Triangulating static mesh BezierCurve.006
+[2020.10.29-11.31.58:199][246]LogStaticMesh: Building static mesh Isle_BezierCurve_006...
+[2020.10.29-11.31.58:201][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_BezierCurve_006.Isle_BezierCurve_006
+[2020.10.29-11.31.58:211][246]LogFbx: Display: Triangulating static mesh Cube.007
+[2020.10.29-11.31.58:225][246]LogStaticMesh: Building static mesh Isle_Cube_007...
+[2020.10.29-11.31.58:239][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Cube_007.Isle_Cube_007
+[2020.10.29-11.31.58:249][246]LogFbx: Display: Triangulating static mesh Cube.008
+[2020.10.29-11.31.58:262][246]LogStaticMesh: Building static mesh Isle_Cube_008...
+[2020.10.29-11.31.58:274][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Cube_008.Isle_Cube_008
+[2020.10.29-11.31.58:282][246]LogFbx: Display: Triangulating static mesh Cube.009
+[2020.10.29-11.31.58:285][246]LogStaticMesh: Building static mesh Isle_Cube_009...
+[2020.10.29-11.31.58:293][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Cube_009.Isle_Cube_009
+[2020.10.29-11.31.58:302][246]LogFbx: Display: Triangulating static mesh Cube.011
+[2020.10.29-11.31.58:340][246]LogStaticMesh: Building static mesh Isle_Cube_011...
+[2020.10.29-11.31.58:353][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Cube_011.Isle_Cube_011
+[2020.10.29-11.31.58:363][246]LogFbx: Display: Triangulating static mesh Cube.012
+[2020.10.29-11.31.58:378][246]LogStaticMesh: Building static mesh Isle_Cube_012...
+[2020.10.29-11.31.58:380][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_012.Isle_Cube_012
+[2020.10.29-11.31.58:389][246]LogFbx: Display: Triangulating static mesh Cube.013
+[2020.10.29-11.31.58:396][246]LogStaticMesh: Building static mesh Isle_Cube_013...
+[2020.10.29-11.31.58:399][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Cube_013.Isle_Cube_013
+[2020.10.29-11.31.58:406][246]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-11.31.58:411][246]LogStaticMesh: Building static mesh Isle_Cube_014...
+[2020.10.29-11.31.58:417][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isle_Cube_014.Isle_Cube_014
+[2020.10.29-11.31.58:423][246]LogFbx: Display: Triangulating static mesh Personnage
+[2020.10.29-11.31.58:425][246]LogStaticMesh: Building static mesh Isle_Personnage...
+[2020.10.29-11.31.58:425][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Isle_Personnage.Isle_Personnage
+[2020.10.29-11.31.58:431][246]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-11.31.58:510][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.10.29-11.31.58:511][246]LogStaticMesh: Building static mesh Isle_Baril...
+[2020.10.29-11.31.58:541][246]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Isle_Baril.Isle_Baril
+[2020.10.29-11.31.58:659][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.31.58:714][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Pont.fbx)
+[2020.10.29-11.31.58:741][246]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Pont.fbx
+[2020.10.29-11.31.58:761][246]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.31.58:770][246]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-11.31.58:807][246]LogStaticMesh: Building static mesh Pont_Plane...
+[2020.10.29-11.31.58:822][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Plane.Pont_Plane
+[2020.10.29-11.31.58:833][246]LogFbx: Display: Triangulating static mesh Plane.003
+[2020.10.29-11.31.58:841][246]LogStaticMesh: Building static mesh Pont_Plane_003...
+[2020.10.29-11.31.58:849][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Plane_003.Pont_Plane_003
+[2020.10.29-11.31.58:861][246]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-11.31.58:882][246]LogStaticMesh: Building static mesh Pont_Pont...
+[2020.10.29-11.31.58:897][246]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Pont_Pont.Pont_Pont
+[2020.10.29-11.31.58:905][246]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.10.29-11.31.58:906][246]LogStaticMesh: Building static mesh Pont_Cube_001...
+[2020.10.29-11.31.58:906][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_001.Pont_Cube_001
+[2020.10.29-11.31.58:912][246]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.10.29-11.31.58:913][246]LogStaticMesh: Building static mesh Pont_Cube_002...
+[2020.10.29-11.31.58:914][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_002.Pont_Cube_002
+[2020.10.29-11.31.58:920][246]LogFbx: Display: Triangulating static mesh Cube.003
+[2020.10.29-11.31.58:921][246]LogStaticMesh: Building static mesh Pont_Cube_003...
+[2020.10.29-11.31.58:922][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_003.Pont_Cube_003
+[2020.10.29-11.31.58:928][246]LogFbx: Display: Triangulating static mesh Cube.006
+[2020.10.29-11.31.58:930][246]LogStaticMesh: Building static mesh Pont_Cube_006...
+[2020.10.29-11.31.58:930][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_006.Pont_Cube_006
+[2020.10.29-11.31.58:936][246]LogFbx: Display: Triangulating static mesh Cube.005
+[2020.10.29-11.31.58:938][246]LogStaticMesh: Building static mesh Pont_Cube_005...
+[2020.10.29-11.31.58:939][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_005.Pont_Cube_005
+[2020.10.29-11.31.58:945][246]LogFbx: Display: Triangulating static mesh Cube.004
+[2020.10.29-11.31.58:946][246]LogStaticMesh: Building static mesh Pont_Cube_004...
+[2020.10.29-11.31.58:947][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_004.Pont_Cube_004
+[2020.10.29-11.31.58:955][246]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2020.10.29-11.31.58:969][246]LogStaticMesh: Building static mesh Pont_BezierCurve_001...
+[2020.10.29-11.31.58:972][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_001.Pont_BezierCurve_001
+[2020.10.29-11.31.58:979][246]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2020.10.29-11.31.58:994][246]LogStaticMesh: Building static mesh Pont_BezierCurve_002...
+[2020.10.29-11.31.58:998][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_002.Pont_BezierCurve_002
+[2020.10.29-11.31.59:006][246]LogFbx: Display: Triangulating static mesh BezierCurve.005
+[2020.10.29-11.31.59:023][246]LogStaticMesh: Building static mesh Pont_BezierCurve_005...
+[2020.10.29-11.31.59:026][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_005.Pont_BezierCurve_005
+[2020.10.29-11.31.59:033][246]LogFbx: Display: Triangulating static mesh BezierCurve.004
+[2020.10.29-11.31.59:046][246]LogStaticMesh: Building static mesh Pont_BezierCurve_004...
+[2020.10.29-11.31.59:051][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_004.Pont_BezierCurve_004
+[2020.10.29-11.31.59:058][246]LogFbx: Display: Triangulating static mesh BezierCurve.003
+[2020.10.29-11.31.59:069][246]LogStaticMesh: Building static mesh Pont_BezierCurve_003...
+[2020.10.29-11.31.59:073][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_003.Pont_BezierCurve_003
+[2020.10.29-11.31.59:080][246]LogFbx: Display: Triangulating static mesh BezierCurve.006
+[2020.10.29-11.31.59:093][246]LogStaticMesh: Building static mesh Pont_BezierCurve_006...
+[2020.10.29-11.31.59:097][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_BezierCurve_006.Pont_BezierCurve_006
+[2020.10.29-11.31.59:104][246]LogFbx: Display: Triangulating static mesh Cube.007
+[2020.10.29-11.31.59:120][246]LogStaticMesh: Building static mesh Pont_Cube_007...
+[2020.10.29-11.31.59:136][246]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Pont_Cube_007.Pont_Cube_007
+[2020.10.29-11.31.59:145][246]LogFbx: Display: Triangulating static mesh Cube.008
+[2020.10.29-11.31.59:160][246]LogStaticMesh: Building static mesh Pont_Cube_008...
+[2020.10.29-11.31.59:173][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Cube_008.Pont_Cube_008
+[2020.10.29-11.31.59:181][246]LogFbx: Display: Triangulating static mesh Cube.009
+[2020.10.29-11.31.59:185][246]LogStaticMesh: Building static mesh Pont_Cube_009...
+[2020.10.29-11.31.59:196][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Cube_009.Pont_Cube_009
+[2020.10.29-11.31.59:205][246]LogFbx: Display: Triangulating static mesh Cube.011
+[2020.10.29-11.31.59:242][246]LogStaticMesh: Building static mesh Pont_Cube_011...
+[2020.10.29-11.31.59:257][246]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Pont_Cube_011.Pont_Cube_011
+[2020.10.29-11.31.59:268][246]LogFbx: Display: Triangulating static mesh Cube.012
+[2020.10.29-11.31.59:283][246]LogStaticMesh: Building static mesh Pont_Cube_012...
+[2020.10.29-11.31.59:287][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_012.Pont_Cube_012
+[2020.10.29-11.31.59:295][246]LogFbx: Display: Triangulating static mesh Cube.013
+[2020.10.29-11.31.59:302][246]LogStaticMesh: Building static mesh Pont_Cube_013...
+[2020.10.29-11.31.59:305][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Cube_013.Pont_Cube_013
+[2020.10.29-11.31.59:313][246]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-11.31.59:318][246]LogStaticMesh: Building static mesh Pont_Cube_014...
+[2020.10.29-11.31.59:324][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Cube_014.Pont_Cube_014
+[2020.10.29-11.31.59:331][246]LogFbx: Display: Triangulating static mesh Personnage
+[2020.10.29-11.31.59:332][246]LogStaticMesh: Building static mesh Pont_Personnage...
+[2020.10.29-11.31.59:333][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Pont_Personnage.Pont_Personnage
+[2020.10.29-11.31.59:341][246]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-11.31.59:421][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.10.29-11.31.59:421][246]LogStaticMesh: Building static mesh Pont_Baril...
+[2020.10.29-11.31.59:454][246]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Pont_Baril.Pont_Baril
+[2020.10.29-11.31.59:579][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.31.59:586][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Test.fbx)
+[2020.10.29-11.31.59:608][246]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Test.fbx
+[2020.10.29-11.31.59:625][246]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.31.59:626][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.10.29-11.31.59:627][246]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-11.31.59:648][246]LogStaticMesh: Building static mesh Test_Pont...
+[2020.10.29-11.31.59:665][246]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Test_Pont.Test_Pont
+[2020.10.29-11.31.59:673][246]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.10.29-11.31.59:674][246]LogStaticMesh: Building static mesh Test_Cube_001...
+[2020.10.29-11.31.59:674][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_001.Test_Cube_001
+[2020.10.29-11.31.59:680][246]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.10.29-11.31.59:681][246]LogStaticMesh: Building static mesh Test_Cube_002...
+[2020.10.29-11.31.59:682][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_002.Test_Cube_002
+[2020.10.29-11.31.59:689][246]LogFbx: Display: Triangulating static mesh Cube.003
+[2020.10.29-11.31.59:690][246]LogStaticMesh: Building static mesh Test_Cube_003...
+[2020.10.29-11.31.59:690][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_003.Test_Cube_003
+[2020.10.29-11.31.59:696][246]LogFbx: Display: Triangulating static mesh Cube.006
+[2020.10.29-11.31.59:698][246]LogStaticMesh: Building static mesh Test_Cube_006...
+[2020.10.29-11.31.59:698][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_006.Test_Cube_006
+[2020.10.29-11.31.59:704][246]LogFbx: Display: Triangulating static mesh Cube.005
+[2020.10.29-11.31.59:705][246]LogStaticMesh: Building static mesh Test_Cube_005...
+[2020.10.29-11.31.59:706][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_005.Test_Cube_005
+[2020.10.29-11.31.59:712][246]LogFbx: Display: Triangulating static mesh Cube.004
+[2020.10.29-11.31.59:713][246]LogStaticMesh: Building static mesh Test_Cube_004...
+[2020.10.29-11.31.59:714][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_004.Test_Cube_004
+[2020.10.29-11.31.59:722][246]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2020.10.29-11.31.59:735][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.10.29-11.31.59:736][246]LogStaticMesh: Building static mesh Test_BezierCurve_001...
+[2020.10.29-11.31.59:739][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_001.Test_BezierCurve_001
+[2020.10.29-11.31.59:747][246]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2020.10.29-11.31.59:761][246]LogStaticMesh: Building static mesh Test_BezierCurve_002...
+[2020.10.29-11.31.59:765][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_002.Test_BezierCurve_002
+[2020.10.29-11.31.59:772][246]LogFbx: Display: Triangulating static mesh BezierCurve.005
+[2020.10.29-11.31.59:785][246]LogStaticMesh: Building static mesh Test_BezierCurve_005...
+[2020.10.29-11.31.59:788][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_005.Test_BezierCurve_005
+[2020.10.29-11.31.59:796][246]LogFbx: Display: Triangulating static mesh BezierCurve.004
+[2020.10.29-11.31.59:809][246]LogStaticMesh: Building static mesh Test_BezierCurve_004...
+[2020.10.29-11.31.59:812][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_004.Test_BezierCurve_004
+[2020.10.29-11.31.59:820][246]LogFbx: Display: Triangulating static mesh BezierCurve.003
+[2020.10.29-11.31.59:833][246]LogStaticMesh: Building static mesh Test_BezierCurve_003...
+[2020.10.29-11.31.59:836][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_003.Test_BezierCurve_003
+[2020.10.29-11.31.59:844][246]LogFbx: Display: Triangulating static mesh BezierCurve.006
+[2020.10.29-11.31.59:856][246]LogStaticMesh: Building static mesh Test_BezierCurve_006...
+[2020.10.29-11.31.59:860][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_BezierCurve_006.Test_BezierCurve_006
+[2020.10.29-11.31.59:867][246]LogFbx: Display: Triangulating static mesh Cube
+[2020.10.29-11.31.59:883][246]LogStaticMesh: Building static mesh Test_Cube...
+[2020.10.29-11.31.59:897][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Test_Cube.Test_Cube
+[2020.10.29-11.31.59:905][246]LogFbx: Display: Triangulating static mesh Cube.007
+[2020.10.29-11.31.59:919][246]LogStaticMesh: Building static mesh Test_Cube_007...
+[2020.10.29-11.31.59:930][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Test_Cube_007.Test_Cube_007
+[2020.10.29-11.31.59:937][246]LogFbx: Display: Triangulating static mesh Cube.008
+[2020.10.29-11.31.59:941][246]LogStaticMesh: Building static mesh Test_Cube_008...
+[2020.10.29-11.31.59:948][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Test_Cube_008.Test_Cube_008
+[2020.10.29-11.31.59:959][246]LogFbx: Display: Triangulating static mesh Cube.009
+[2020.10.29-11.31.59:962][246]LogStaticMesh: Building static mesh Test_Cube_009...
+[2020.10.29-11.31.59:972][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Test_Cube_009.Test_Cube_009
+[2020.10.29-11.31.59:981][246]LogFbx: Display: Triangulating static mesh Cube.010
+[2020.10.29-11.32.00:021][246]LogStaticMesh: Building static mesh Test_Cube_010...
+[2020.10.29-11.32.00:035][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Test_Cube_010.Test_Cube_010
+[2020.10.29-11.32.00:045][246]LogFbx: Display: Triangulating static mesh Cube.011
+[2020.10.29-11.32.00:062][246]LogStaticMesh: Building static mesh Test_Cube_011...
+[2020.10.29-11.32.00:065][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_011.Test_Cube_011
+[2020.10.29-11.32.00:073][246]LogFbx: Display: Triangulating static mesh Cube.012
+[2020.10.29-11.32.00:080][246]LogStaticMesh: Building static mesh Test_Cube_012...
+[2020.10.29-11.32.00:084][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_012.Test_Cube_012
+[2020.10.29-11.32.00:092][246]LogFbx: Display: Triangulating static mesh Cube.013
+[2020.10.29-11.32.00:097][246]LogStaticMesh: Building static mesh Test_Cube_013...
+[2020.10.29-11.32.00:102][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_013.Test_Cube_013
+[2020.10.29-11.32.00:110][246]LogFbx: Display: Triangulating static mesh Personnage
+[2020.10.29-11.32.00:111][246]LogStaticMesh: Building static mesh Test_Personnage...
+[2020.10.29-11.32.00:111][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Personnage.Test_Personnage
+[2020.10.29-11.32.00:117][246]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-11.32.00:201][246]LogStaticMesh: Building static mesh Test_Baril...
+[2020.10.29-11.32.00:227][246]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Test_Baril.Test_Baril
+[2020.10.29-11.32.00:242][246]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-11.32.00:243][246]LogStaticMesh: Building static mesh Test_Cube_014...
+[2020.10.29-11.32.00:243][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_014.Test_Cube_014
+[2020.10.29-11.32.00:250][246]LogFbx: Display: Triangulating static mesh Cube.015
+[2020.10.29-11.32.00:251][246]LogStaticMesh: Building static mesh Test_Cube_015...
+[2020.10.29-11.32.00:252][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Test_Cube_015.Test_Cube_015
+[2020.10.29-11.32.00:376][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.32.00:382][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Boat.fbx)
+[2020.10.29-11.32.00:394][246]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Boat.fbx
+[2020.10.29-11.32.00:415][246]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.32.00:423][246]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-11.32.00:459][246]LogStaticMesh: Building static mesh Boat_Plane...
+[2020.10.29-11.32.00:470][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Plane.Boat_Plane
+[2020.10.29-11.32.00:482][246]LogFbx: Display: Triangulating static mesh Plane.003
+[2020.10.29-11.32.00:491][246]LogStaticMesh: Building static mesh Boat_Plane_003...
+[2020.10.29-11.32.00:499][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Plane_003.Boat_Plane_003
+[2020.10.29-11.32.00:507][246]LogFbx: Display: Triangulating static mesh Cube.009
+[2020.10.29-11.32.00:511][246]LogStaticMesh: Building static mesh Boat_Cube_009...
+[2020.10.29-11.32.00:518][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Cube_009.Boat_Cube_009
+[2020.10.29-11.32.00:528][246]LogFbx: Display: Triangulating static mesh Cube.011
+[2020.10.29-11.32.00:563][246]LogStaticMesh: Building static mesh Boat_Cube_011...
+[2020.10.29-11.32.00:576][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Cube_011.Boat_Cube_011
+[2020.10.29-11.32.00:587][246]LogFbx: Display: Triangulating static mesh Cube.012
+[2020.10.29-11.32.00:602][246]LogStaticMesh: Building static mesh Boat_Cube_012...
+[2020.10.29-11.32.00:604][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_012.Boat_Cube_012
+[2020.10.29-11.32.00:612][246]LogFbx: Display: Triangulating static mesh Cube.013
+[2020.10.29-11.32.00:620][246]LogStaticMesh: Building static mesh Boat_Cube_013...
+[2020.10.29-11.32.00:622][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_013.Boat_Cube_013
+[2020.10.29-11.32.00:629][246]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-11.32.00:634][246]LogStaticMesh: Building static mesh Boat_Cube_014...
+[2020.10.29-11.32.00:639][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_014.Boat_Cube_014
+[2020.10.29-11.32.00:645][246]LogFbx: Display: Triangulating static mesh Personnage
+[2020.10.29-11.32.00:647][246]LogStaticMesh: Building static mesh Boat_Personnage...
+[2020.10.29-11.32.00:647][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Personnage.Boat_Personnage
+[2020.10.29-11.32.00:653][246]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-11.32.00:733][246]LogStaticMesh: Building static mesh Boat_Baril...
+[2020.10.29-11.32.00:763][246]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Boat_Baril.Boat_Baril
+[2020.10.29-11.32.00:778][246]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2020.10.29-11.32.00:792][246]LogStaticMesh: Building static mesh Boat_BezierCurve_001...
+[2020.10.29-11.32.00:796][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_001.Boat_BezierCurve_001
+[2020.10.29-11.32.00:804][246]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2020.10.29-11.32.00:816][246]LogStaticMesh: Building static mesh Boat_BezierCurve_002...
+[2020.10.29-11.32.00:820][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_002.Boat_BezierCurve_002
+[2020.10.29-11.32.00:829][246]LogFbx: Display: Triangulating static mesh BezierCurve.003
+[2020.10.29-11.32.00:843][246]LogStaticMesh: Building static mesh Boat_BezierCurve_003...
+[2020.10.29-11.32.00:846][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_003.Boat_BezierCurve_003
+[2020.10.29-11.32.00:854][246]LogFbx: Display: Triangulating static mesh BezierCurve.004
+[2020.10.29-11.32.00:866][246]LogStaticMesh: Building static mesh Boat_BezierCurve_004...
+[2020.10.29-11.32.00:869][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_004.Boat_BezierCurve_004
+[2020.10.29-11.32.00:880][246]LogFbx: Display: Triangulating static mesh BezierCurve.005
+[2020.10.29-11.32.00:893][246]LogStaticMesh: Building static mesh Boat_BezierCurve_005...
+[2020.10.29-11.32.00:897][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_005.Boat_BezierCurve_005
+[2020.10.29-11.32.00:905][246]LogFbx: Display: Triangulating static mesh BezierCurve.006
+[2020.10.29-11.32.00:916][246]LogStaticMesh: Building static mesh Boat_BezierCurve_006...
+[2020.10.29-11.32.00:919][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_BezierCurve_006.Boat_BezierCurve_006
+[2020.10.29-11.32.00:926][246]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.10.29-11.32.00:927][246]LogStaticMesh: Building static mesh Boat_Cube_001...
+[2020.10.29-11.32.00:928][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_001.Boat_Cube_001
+[2020.10.29-11.32.00:933][246]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.10.29-11.32.00:934][246]LogStaticMesh: Building static mesh Boat_Cube_002...
+[2020.10.29-11.32.00:935][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_002.Boat_Cube_002
+[2020.10.29-11.32.00:942][246]LogFbx: Display: Triangulating static mesh Cube.003
+[2020.10.29-11.32.00:943][246]LogStaticMesh: Building static mesh Boat_Cube_003...
+[2020.10.29-11.32.00:943][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_003.Boat_Cube_003
+[2020.10.29-11.32.00:952][246]LogFbx: Display: Triangulating static mesh Cube.004
+[2020.10.29-11.32.00:954][246]LogStaticMesh: Building static mesh Boat_Cube_004...
+[2020.10.29-11.32.00:954][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_004.Boat_Cube_004
+[2020.10.29-11.32.00:961][246]LogFbx: Display: Triangulating static mesh Cube.005
+[2020.10.29-11.32.00:962][246]LogStaticMesh: Building static mesh Boat_Cube_005...
+[2020.10.29-11.32.00:963][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_005.Boat_Cube_005
+[2020.10.29-11.32.00:969][246]LogFbx: Display: Triangulating static mesh Cube.006
+[2020.10.29-11.32.00:970][246]LogStaticMesh: Building static mesh Boat_Cube_006...
+[2020.10.29-11.32.00:971][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Boat_Cube_006.Boat_Cube_006
+[2020.10.29-11.32.00:977][246]LogFbx: Display: Triangulating static mesh Cube.007
+[2020.10.29-11.32.00:993][246]LogStaticMesh: Building static mesh Boat_Cube_007...
+[2020.10.29-11.32.01:005][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Cube_007.Boat_Cube_007
+[2020.10.29-11.32.01:013][246]LogFbx: Display: Triangulating static mesh Cube.008
+[2020.10.29-11.32.01:027][246]LogStaticMesh: Building static mesh Boat_Cube_008...
+[2020.10.29-11.32.01:040][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.10.29-11.32.01:040][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Boat_Cube_008.Boat_Cube_008
+[2020.10.29-11.32.01:048][246]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-11.32.01:066][246]LogStaticMesh: Building static mesh Boat_Pont...
+[2020.10.29-11.32.01:083][246]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Boat_Pont.Boat_Pont
+[2020.10.29-11.32.01:180][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.32.01:186][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Caillou_1.fbx)
+[2020.10.29-11.32.01:225][246]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Caillou_1.fbx
+[2020.10.29-11.32.01:245][246]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.32.01:255][246]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-11.32.01:291][246]LogStaticMesh: Building static mesh Caillou_1_Plane...
+[2020.10.29-11.32.01:302][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Plane.Caillou_1_Plane
+[2020.10.29-11.32.01:312][246]LogFbx: Display: Triangulating static mesh Plane.003
+[2020.10.29-11.32.01:322][246]LogStaticMesh: Building static mesh Caillou_1_Plane_003...
+[2020.10.29-11.32.01:328][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Plane_003.Caillou_1_Plane_003
+[2020.10.29-11.32.01:337][246]LogFbx: Display: Triangulating static mesh Cube.009
+[2020.10.29-11.32.01:341][246]LogStaticMesh: Building static mesh Caillou_1_Cube_009...
+[2020.10.29-11.32.01:350][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Cube_009.Caillou_1_Cube_009
+[2020.10.29-11.32.01:358][246]LogFbx: Display: Triangulating static mesh Personnage
+[2020.10.29-11.32.01:360][246]LogStaticMesh: Building static mesh Caillou_1_Personnage...
+[2020.10.29-11.32.01:360][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Personnage.Caillou_1_Personnage
+[2020.10.29-11.32.01:368][246]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-11.32.01:457][246]LogStaticMesh: Building static mesh Caillou_1_Baril...
+[2020.10.29-11.32.01:487][246]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Caillou_1_Baril.Caillou_1_Baril
+[2020.10.29-11.32.01:502][246]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2020.10.29-11.32.01:513][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_001...
+[2020.10.29-11.32.01:516][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_001.Caillou_1_BezierCurve_001
+[2020.10.29-11.32.01:524][246]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2020.10.29-11.32.01:536][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_002...
+[2020.10.29-11.32.01:538][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_002.Caillou_1_BezierCurve_002
+[2020.10.29-11.32.01:546][246]LogFbx: Display: Triangulating static mesh BezierCurve.003
+[2020.10.29-11.32.01:561][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_003...
+[2020.10.29-11.32.01:564][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_003.Caillou_1_BezierCurve_003
+[2020.10.29-11.32.01:573][246]LogFbx: Display: Triangulating static mesh BezierCurve.004
+[2020.10.29-11.32.01:586][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_004...
+[2020.10.29-11.32.01:589][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_004.Caillou_1_BezierCurve_004
+[2020.10.29-11.32.01:596][246]LogFbx: Display: Triangulating static mesh BezierCurve.005
+[2020.10.29-11.32.01:608][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_005...
+[2020.10.29-11.32.01:612][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_005.Caillou_1_BezierCurve_005
+[2020.10.29-11.32.01:620][246]LogFbx: Display: Triangulating static mesh BezierCurve.006
+[2020.10.29-11.32.01:632][246]LogStaticMesh: Building static mesh Caillou_1_BezierCurve_006...
+[2020.10.29-11.32.01:635][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_BezierCurve_006.Caillou_1_BezierCurve_006
+[2020.10.29-11.32.01:642][246]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.10.29-11.32.01:643][246]LogStaticMesh: Building static mesh Caillou_1_Cube_001...
+[2020.10.29-11.32.01:644][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_001.Caillou_1_Cube_001
+[2020.10.29-11.32.01:651][246]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.10.29-11.32.01:652][246]LogStaticMesh: Building static mesh Caillou_1_Cube_002...
+[2020.10.29-11.32.01:652][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_002.Caillou_1_Cube_002
+[2020.10.29-11.32.01:659][246]LogFbx: Display: Triangulating static mesh Cube.003
+[2020.10.29-11.32.01:662][246]LogStaticMesh: Building static mesh Caillou_1_Cube_003...
+[2020.10.29-11.32.01:663][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_003.Caillou_1_Cube_003
+[2020.10.29-11.32.01:670][246]LogFbx: Display: Triangulating static mesh Cube.004
+[2020.10.29-11.32.01:672][246]LogStaticMesh: Building static mesh Caillou_1_Cube_004...
+[2020.10.29-11.32.01:672][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_004.Caillou_1_Cube_004
+[2020.10.29-11.32.01:680][246]LogFbx: Display: Triangulating static mesh Cube.005
+[2020.10.29-11.32.01:681][246]LogStaticMesh: Building static mesh Caillou_1_Cube_005...
+[2020.10.29-11.32.01:681][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_005.Caillou_1_Cube_005
+[2020.10.29-11.32.01:687][246]LogFbx: Display: Triangulating static mesh Cube.006
+[2020.10.29-11.32.01:688][246]LogStaticMesh: Building static mesh Caillou_1_Cube_006...
+[2020.10.29-11.32.01:689][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_006.Caillou_1_Cube_006
+[2020.10.29-11.32.01:695][246]LogFbx: Display: Triangulating static mesh Cube.007
+[2020.10.29-11.32.01:709][246]LogStaticMesh: Building static mesh Caillou_1_Cube_007...
+[2020.10.29-11.32.01:720][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Cube_007.Caillou_1_Cube_007
+[2020.10.29-11.32.01:727][246]LogFbx: Display: Triangulating static mesh Cube.008
+[2020.10.29-11.32.01:742][246]LogStaticMesh: Building static mesh Caillou_1_Cube_008...
+[2020.10.29-11.32.01:755][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Cube_008.Caillou_1_Cube_008
+[2020.10.29-11.32.01:762][246]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-11.32.01:779][246]LogStaticMesh: Building static mesh Caillou_1_Pont...
+[2020.10.29-11.32.01:793][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Pont.Caillou_1_Pont
+[2020.10.29-11.32.01:801][246]LogFbx: Display: Triangulating static mesh Cube.011
+[2020.10.29-11.32.01:836][246]LogStaticMesh: Building static mesh Caillou_1_Cube_011...
+[2020.10.29-11.32.01:850][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Cube_011.Caillou_1_Cube_011
+[2020.10.29-11.32.01:860][246]LogFbx: Display: Triangulating static mesh Cube.012
+[2020.10.29-11.32.01:878][246]LogStaticMesh: Building static mesh Caillou_1_Cube_012...
+[2020.10.29-11.32.01:881][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_012.Caillou_1_Cube_012
+[2020.10.29-11.32.01:888][246]LogFbx: Display: Triangulating static mesh Cube.013
+[2020.10.29-11.32.01:896][246]LogStaticMesh: Building static mesh Caillou_1_Cube_013...
+[2020.10.29-11.32.01:899][246]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Caillou_1_Cube_013.Caillou_1_Cube_013
+[2020.10.29-11.32.01:906][246]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-11.32.01:911][246]LogStaticMesh: Building static mesh Caillou_1_Cube_014...
+[2020.10.29-11.32.01:917][246]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_1_Cube_014.Caillou_1_Cube_014
+[2020.10.29-11.32.01:934][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.29-11.32.02:012][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.32.02:887][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-11.32.02:887][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.29-11.32.02:887][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.29-11.32.02:887][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.29-11.32.03:081][250]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.29-11.32.04:304][381]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.32.04:308][381]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.32.07:827][665]LogActorFactory: Actor Factory created Boat_BezierCurve_005
+[2020.10.29-11.32.08:226][712]LogActorFactory: Actor Factory created Boat_BezierCurve_005
+[2020.10.29-11.32.09:013][802]Cmd: TRANSACTION UNDO
+[2020.10.29-11.32.09:013][802]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.32.10:986][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.10.29-11.32.12:161][925]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-11.32.12:258][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.10.29-11.32.13:061][982]LogActorFactory: Actor Factory created Boat_Cube_011
+[2020.10.29-11.32.13:370][ 18]LogActorFactory: Actor Factory created Boat_Cube_011
+[2020.10.29-11.32.13:997][ 89]Cmd: TRANSACTION UNDO
+[2020.10.29-11.32.13:997][ 89]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.32.16:790][278]LogActorFactory: Actor Factory created Boat_Cube_011
+[2020.10.29-11.32.17:293][337]LogActorFactory: Actor Factory created Boat_Cube_011
+[2020.10.29-11.32.17:613][372]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.29-11.32.18:847][519]Cmd: TRANSACTION UNDO
+[2020.10.29-11.32.18:847][519]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.33.03:442][168]LogActorFactory: Actor Factory created Isle_Cube_003
+[2020.10.29-11.33.03:787][208]LogActorFactory: Actor Factory created Isle_Cube_003
+[2020.10.29-11.33.04:848][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.29-11.33.10:872][ 46]Cmd: DELETE
+[2020.10.29-11.33.10:872][ 46]Cmd: ACTOR DELETE
+[2020.10.29-11.33.10:876][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-11.33.10:891][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.29-11.33.10:896][ 46]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.29-11.33.13:953][289]Cmd: TRANSACTION UNDO
+[2020.10.29-11.33.13:953][289]LogEditorTransaction: Undo Delete Actors
+[2020.10.29-11.33.28:030][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.29-11.33.30:574][287]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-11.33.32:455][287]LogUObjectGlobals: Force Deleting 120 Package(s):
+	Asset Name: /Game/Mesh/Boat_Baril.Boat_Baril
+	Asset Name: /Game/Mesh/Boat_Cube_001.Boat_Cube_001
+	Asset Name: /Game/Mesh/Boat_Cube_002.Boat_Cube_002
+	Asset Name: /Game/Mesh/Boat_Cube_003.Boat_Cube_003
+	Asset Name: /Game/Mesh/Boat_Cube_004.Boat_Cube_004
+	Asset Name: /Game/Mesh/Boat_Cube_005.Boat_Cube_005
+	Asset Name: /Game/Mesh/Boat_Cube_006.Boat_Cube_006
+	Asset Name: /Game/Mesh/Boat_Cube_007.Boat_Cube_007
+	Asset Name: /Game/Mesh/Boat_Cube_008.Boat_Cube_008
+	Asset Name: /Game/Mesh/Boat_Cube_009.Boat_Cube_009
+[2020.10.29-11.34.04:343][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.10.29-11.34.09:724][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_PalmTree_Animated.FBX)
+[2020.10.29-11.34.09:732][313]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_PalmTree_Animated.FBX
+[2020.10.29-11.34.09:763][313]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.34.16:837][313]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-11.34.16:892][313]LogFbx: Valid bind pose for Pose (BIND_POSES) - Plane001
+[2020.10.29-11.34.16:894][313]LogFbx: Triangulating skeletal mesh Plane001
+[2020.10.29-11.34.16:904][313]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 3
+[2020.10.29-11.34.16:965][313]LogSkeletalMesh: Section 0: 388 vertices, 3 active bones
+[2020.10.29-11.34.16:965][313]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2020.10.29-11.34.16:967][313]LogSkeletalMesh: Building Skeletal Mesh O_PalmTree_Animated...
+[2020.10.29-11.34.16:982][313]LogSkeletalMesh: Section 0: 388 vertices, 3 active bones
+[2020.10.29-11.34.16:982][313]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2020.10.29-11.34.17:027][313]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Mesh/O_PalmTree_Animated.O_PalmTree_Animated
+[2020.10.29-11.34.17:081][313]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.34.17:082][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.34.17:099][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.34.17:177][313]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_HalloweenTree_Animated.FBX)
+[2020.10.29-11.34.17:201][313]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_HalloweenTree_Animated.FBX
+[2020.10.29-11.34.17:214][313]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.34.17:215][313]LogFbx: Valid bind pose for Pose (BIND_POSES) - Cylinder001
+[2020.10.29-11.34.17:219][313]LogMaterial: Display: Material /Game/Mesh/Material__25.Material__25 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.34.17:221][313]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2020.10.29-11.34.17:359][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.10.29-11.34.17:359][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.10.29-11.34.17:359][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.10.29-11.34.17:359][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.10.29-11.34.17:359][313]LogTexture: Display: Building textures: M_HalloweenTree (AutoDXT, 2048X2048)
+[2020.10.29-11.34.17:513][313]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2020.10.29-11.34.17:539][313]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 4
+[2020.10.29-11.34.17:551][313]LogSkeletalMesh: Section 0: 540 vertices, 6 active bones
+[2020.10.29-11.34.17:551][313]LogSkeletalMesh: Section 0: Material=0, 483 triangles
+[2020.10.29-11.34.17:552][313]LogSkeletalMesh: Building Skeletal Mesh O_HalloweenTree_Animated...
+[2020.10.29-11.34.17:564][313]LogSkeletalMesh: Section 0: 540 vertices, 6 active bones
+[2020.10.29-11.34.17:564][313]LogSkeletalMesh: Section 0: Material=0, 483 triangles
+[2020.10.29-11.34.17:565][313]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Mesh/O_HalloweenTree_Animated.O_HalloweenTree_Animated
+[2020.10.29-11.34.17:580][313]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.34.17:580][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.34.17:595][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.34.20:397][585]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.34.20:402][585]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.34.20:721][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.10.29-11.34.20:737][618]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.10.29-11.34.21:104][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.10.29-11.34.21:306][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.10.29-11.34.22:943][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.10.29-11.34.23:179][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.10.29-11.34.23:387][831]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.29-11.34.24:189][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-11.34.24:348][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.29-11.34.24:360][894]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.10.29-11.34.27:603][245]Cmd: DELETE
+[2020.10.29-11.34.27:603][245]Cmd: ACTOR DELETE
+[2020.10.29-11.34.27:605][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-11.34.27:663][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.29-11.34.27:671][245]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.10.29-11.34.29:323][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-11.34.29:358][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.10.29-11.34.29:371][437]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/LevelA0CBD1764D3D8401A7E4A191D556E0A3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-11.34.29:407][437]AssetCheck: New page: Asset Save: Level
+[2020.10.29-11.34.29:407][437]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-11.34.33:611][918]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.29-11.34.33:626][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.10.29-11.34.35:404][918]LogSlate: Window 'Save Content' being destroyed
+[2020.10.29-11.34.35:420][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/M_HalloweenTree" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/M_HalloweenTree.uasset" SILENT=true
+[2020.10.29-11.34.35:498][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/M_HalloweenTreeDE527A584A8B90B58934E4B5AC2EC20F.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/M_HalloweenTree.uasset'
+[2020.10.29-11.34.35:511][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Material__25" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/Material__25.uasset" SILENT=true
+[2020.10.29-11.34.35:522][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Material__25C7EB795149FDE50D0E352C9CC1D66226.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/Material__25.uasset'
+[2020.10.29-11.34.35:539][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/O_HalloweenTree_Animated" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_HalloweenTree_Animated.uasset" SILENT=true
+[2020.10.29-11.34.35:552][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_HalloweenTree_Animated991DE18A4BF7C1DAA10D668E15675540.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_HalloweenTree_Animated.uasset'
+[2020.10.29-11.34.35:569][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_HalloweenTree_Animated_PhysicsC22CA0BD4AC74ECDEDA73B90E12A727A.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_HalloweenTree_Animated_PhysicsAsset.uasset'
+[2020.10.29-11.34.35:573][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_HalloweenTree_Animated_Skeleto82C1EC344DB52FCE760C229C608FA582.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_HalloweenTree_Animated_Skeleton.uasset'
+[2020.10.29-11.34.35:583][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/O_PalmTree_Animated" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_PalmTree_Animated.uasset" SILENT=true
+[2020.10.29-11.34.35:593][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_PalmTree_Animated8EF7631741BB58902B632BB75AD19071.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_PalmTree_Animated.uasset'
+[2020.10.29-11.34.35:618][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_PalmTree_Animated_PhysicsAssetCE99674142692C7EB9BDA68D92F3951C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_PalmTree_Animated_PhysicsAsset.uasset'
+[2020.10.29-11.34.35:620][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/O_PalmTree_Animated_Skeleton" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_PalmTree_Animated_Skeleton.uasset" SILENT=true
+[2020.10.29-11.34.35:622][918]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_PalmTree_Animated_Skeleton43D9D93746B48B6D972C64AFF43C40A5.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Mesh/O_PalmTree_Animated_Skeleton.uasset'
+[2020.10.29-11.34.35:623][918]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-11.34.35:624][918]LightingResults: New page: Lighting Build
+[2020.10.29-11.34.35:624][918]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2020.10.29-11.34.35:624][918]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.34.35:624][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.34.35:624][918]MapCheck: New page: Map Check
+[2020.10.29-11.34.35:624][918]LightingResults: New page: Lighting Build
+[2020.10.29-11.34.35:641][918]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025F141C2340), frame # 876918
+[2020.10.29-11.34.35:641][918]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025FCD59C600), frame # 876918
+[2020.10.29-11.34.35:642][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.29-11.34.35:952][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-11.34.35:952][918]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.29-11.34.35:952][918]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025FE4CD2000), frame # 876918
+[2020.10.29-11.34.35:952][918]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025F3F524180), frame # 876918
+[2020.10.29-11.34.35:986][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.29-11.34.36:017][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-11.34.36:018][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2020.10.29-11.34.36:018][918]LogFileHelpers: Loading map 'Minimal_Default' took 0.394
+[2020.10.29-11.34.36:147][918]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.29-11.34.36:147][918]LogContentValidation: Display: Validating Texture2D /Game/Mesh/M_HalloweenTree.M_HalloweenTree
+[2020.10.29-11.34.36:147][918]LogContentValidation: Display: Validating Material /Game/Mesh/Material__25.Material__25
+[2020.10.29-11.34.36:147][918]LogContentValidation: Display: Validating SkeletalMesh /Game/Mesh/O_HalloweenTree_Animated.O_HalloweenTree_Animated
+[2020.10.29-11.34.36:147][918]LogContentValidation: Display: Validating PhysicsAsset /Game/Mesh/O_HalloweenTree_Animated_PhysicsAsset.O_HalloweenTree_Animated_PhysicsAsset
+[2020.10.29-11.34.36:148][918]LogContentValidation: Display: Validating Skeleton /Game/Mesh/O_HalloweenTree_Animated_Skeleton.O_HalloweenTree_Animated_Skeleton
+[2020.10.29-11.34.36:148][918]LogContentValidation: Display: Validating SkeletalMesh /Game/Mesh/O_PalmTree_Animated.O_PalmTree_Animated
+[2020.10.29-11.34.36:148][918]LogContentValidation: Display: Validating PhysicsAsset /Game/Mesh/O_PalmTree_Animated_PhysicsAsset.O_PalmTree_Animated_PhysicsAsset
+[2020.10.29-11.34.36:148][918]LogContentValidation: Display: Validating Skeleton /Game/Mesh/O_PalmTree_Animated_Skeleton.O_PalmTree_Animated_Skeleton
+[2020.10.29-11.34.37:019][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-11.34.37:886][ 97]Cmd: EDIT COPY
+[2020.10.29-11.34.38:105][121]Cmd: EDIT COPY
+[2020.10.29-11.34.38:293][142]Cmd: EDIT COPY
+[2020.10.29-11.34.38:450][159]Cmd: EDIT COPY
+[2020.10.29-11.34.38:632][179]Cmd: EDIT COPY
+[2020.10.29-11.34.40:011][324]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level.Level
+[2020.10.29-11.34.40:026][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.10.29-11.34.40:030][324]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-11.34.40:031][324]LightingResults: New page: Lighting Build
+[2020.10.29-11.34.40:031][324]LoadErrors: New page: Loading map: Level.umap
+[2020.10.29-11.34.40:031][324]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.34.40:032][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.34.40:032][324]MapCheck: New page: Map Check
+[2020.10.29-11.34.40:032][324]LightingResults: New page: Lighting Build
+[2020.10.29-11.34.40:046][324]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025F3F524180), frame # 877324
+[2020.10.29-11.34.40:046][324]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025FE4CD2000), frame # 877324
+[2020.10.29-11.34.40:048][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.10.29-11.34.40:203][324]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-11.34.40:203][324]LogAIModule: Creating AISystem for world Level
+[2020.10.29-11.34.40:203][324]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025F37A9AA00), frame # 877324
+[2020.10.29-11.34.40:203][324]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025FB3376200), frame # 877324
+[2020.10.29-11.34.40:241][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.10.29-11.34.40:279][324]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-11.34.40:279][324]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2020.10.29-11.34.40:279][324]LogFileHelpers: Loading map 'Level' took 0.248
+[2020.10.29-11.34.44:160][756]Cmd: EDIT PASTE
+[2020.10.29-11.34.57:727][ 45]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.29-11.35.06:644][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.29-11.35.06:972][ 63]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_PalmTree_Animated)
+[2020.10.29-11.35.11:919][530]Cmd: TRANSACTION UNDO
+[2020.10.29-11.35.11:919][530]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.35.13:115][607]LogMaterial: Display: Missing cached shader map for material M_HalloweenTree_Mat, compiling. 
+[2020.10.29-11.35.13:126][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-11.35.13:126][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-11.35.13:126][607]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-11.35.13:126][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-11.35.13:137][607]LogMaterial: Display: Material /Game/Mesh/M_HalloweenTree_Mat.M_HalloweenTree_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.35.13:137][607]LogMaterial: Display: Missing cached shader map for material M_HalloweenTree_Mat, compiling. 
+[2020.10.29-11.35.13:819][640]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.10.29-11.35.14:753][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.10.29-11.35.15:165][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.10.29-11.35.15:273][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.10.29-11.35.16:861][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.10.29-11.35.17:238][931]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.29-11.35.17:406][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.10.29-11.35.17:589][954]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-11.35.17:762][965]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.29-11.35.18:111][983]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.10.29-11.35.22:770][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.29-11.35.23:838][475]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-11.35.25:534][475]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mesh/M_HalloweenTree_Mat.M_HalloweenTree_Mat
+[2020.10.29-11.35.26:190][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.10.29-11.36.30:256][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-11.36.30:270][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.10.29-11.36.30:288][340]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level85F5398E40168181AD30B28135DF1D47.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-11.36.30:325][340]AssetCheck: New page: Asset Save: Level
+[2020.10.29-11.36.30:325][340]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-11.36.42:488][343]Cmd: TRANSACTION UNDO
+[2020.10.29-11.36.42:488][343]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.36.46:233][662]Cmd: TRANSACTION UNDO
+[2020.10.29-11.36.46:233][662]LogEditorTransaction: Undo Create Actors
+[2020.10.29-11.36.46:830][677]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_PalmTree_Animated)
+[2020.10.29-11.36.48:139][827]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_HalloweenTree_Animated)
+[2020.10.29-11.36.59:056][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-11.36.59:070][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.10.29-11.36.59:088][924]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level6EBB463F47D7D65EB0ABAA849592155D.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-11.36.59:128][924]AssetCheck: New page: Asset Save: Level
+[2020.10.29-11.36.59:128][924]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-11.37.08:155][841]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mesh/O_PalmTree_Animated.O_PalmTree_Animated
+[2020.10.29-11.37.08:159][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.37.08:257][841]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.37.10:584][  4]LogSlate: Window 'O_PalmTree_Animated' being destroyed
+[2020.10.29-11.37.10:597][  4]LogSlate: Window 'O_PalmTree_Animated' being destroyed
+[2020.10.29-11.37.10:636][  4]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.37.10:636][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.37.11:990][ 90]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mesh/O_HalloweenTree_Animated.O_HalloweenTree_Animated
+[2020.10.29-11.37.11:994][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.37.12:059][ 90]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.37.14:030][257]LogSlate: Window 'O_HalloweenTree_Animated' being destroyed
+[2020.10.29-11.37.37:053][919]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Mesh/O_HalloweenTree_Animated_PhysicsAsset.O_HalloweenTree_Animated_PhysicsAsset
+[2020.10.29-11.37.37:583][919]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0007 seconds. Added 8 classes and 3 folders.
+[2020.10.29-11.37.37:598][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.37.51:328][403]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.37.51:328][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.37.52:548][526]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.37.52:548][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.37.56:121][826]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mesh/O_PalmTree_Animated.O_PalmTree_Animated
+[2020.10.29-11.37.56:126][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.37.56:195][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.38.04:184][512]LogSlate: Window 'O_PalmTree_Animated' being destroyed
+[2020.10.29-11.38.04:202][512]LogSlate: Window 'O_PalmTree_Animated' being destroyed
+[2020.10.29-11.38.04:224][512]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.38.04:225][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.38.20:539][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-11.38.22:645][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.29-11.39.10:961][284]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_Idle.FBX)
+[2020.10.29-11.39.10:973][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_Idle.FBX
+[2020.10.29-11.39.11:018][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.13:609][284]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-11.39.13:646][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.13:646][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.13:646][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.13:647][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.13:648][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.13:648][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.13:653][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D20.PM3D_Merged_PM3D_Cone3D20 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:654][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D20, compiling. 
+[2020.10.29-11.39.13:676][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D20, compiling. 
+[2020.10.29-11.39.13:699][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D21.PM3D_Merged_PM3D_Cone3D21 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:700][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D21, compiling. 
+[2020.10.29-11.39.13:720][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.10.29-11.39.13:720][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.10.29-11.39.13:720][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.10.29-11.39.13:720][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.10.29-11.39.13:723][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D21, compiling. 
+[2020.10.29-11.39.13:749][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D22.PM3D_Merged_PM3D_Cone3D22 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:750][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D22, compiling. 
+[2020.10.29-11.39.13:778][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D22, compiling. 
+[2020.10.29-11.39.13:805][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D23.PM3D_Merged_PM3D_Cone3D23 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:807][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D23, compiling. 
+[2020.10.29-11.39.13:830][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D23, compiling. 
+[2020.10.29-11.39.13:860][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D24.PM3D_Merged_PM3D_Cone3D24 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:861][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D24, compiling. 
+[2020.10.29-11.39.13:887][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D24, compiling. 
+[2020.10.29-11.39.13:917][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D25.PM3D_Merged_PM3D_Cone3D25 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:918][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D25, compiling. 
+[2020.10.29-11.39.13:946][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D25, compiling. 
+[2020.10.29-11.39.13:975][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D26.PM3D_Merged_PM3D_Cone3D26 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.13:977][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D26, compiling. 
+[2020.10.29-11.39.14:005][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D26, compiling. 
+[2020.10.29-11.39.14:036][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D27.PM3D_Merged_PM3D_Cone3D27 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:037][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D27, compiling. 
+[2020.10.29-11.39.14:064][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D27, compiling. 
+[2020.10.29-11.39.14:092][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D28.PM3D_Merged_PM3D_Cone3D28 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:093][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D28, compiling. 
+[2020.10.29-11.39.14:119][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D28, compiling. 
+[2020.10.29-11.39.14:148][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D29.PM3D_Merged_PM3D_Cone3D29 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:148][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D29, compiling. 
+[2020.10.29-11.39.14:175][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D29, compiling. 
+[2020.10.29-11.39.14:205][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D210.PM3D_Merged_PM3D_Cone3D210 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:206][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D210, compiling. 
+[2020.10.29-11.39.14:232][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D210, compiling. 
+[2020.10.29-11.39.14:261][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D211.PM3D_Merged_PM3D_Cone3D211 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:262][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D211, compiling. 
+[2020.10.29-11.39.14:286][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D211, compiling. 
+[2020.10.29-11.39.14:311][284]LogMaterial: Display: Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D212.PM3D_Merged_PM3D_Cone3D212 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.14:312][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D212, compiling. 
+[2020.10.29-11.39.14:336][284]LogMaterial: Display: Missing cached shader map for material PM3D_Merged_PM3D_Cone3D212, compiling. 
+[2020.10.29-11.39.14:359][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.15:699][284]LogMaterial: Display: Material /Game/Character/Objects/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.29-11.39.15:700][284]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.10.29-11.39.15:731][284]LogFbxMaterialImport: Display: Unable to find Texture file E:\Tom\d7za5el-11b6b3ec-ee79-412e-ab96-f69f74b05508.jpg
+[2020.10.29-11.39.15:733][284]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.10.29-11.39.15:759][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.15:798][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.16:719][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 507
+[2020.10.29-11.39.16:719][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 497
+[2020.10.29-11.39.16:918][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 487
+[2020.10.29-11.39.16:936][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.16:937][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.16:938][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.16:938][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.16:938][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.16:942][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.16:947][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 477
+[2020.10.29-11.39.16:947][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_Idle...
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.17:954][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.17:955][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.17:959][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.18:061][284]LogSkeletalMesh: Built Skeletal Mesh [1.11s] /Game/Character/Objects/O_Chara_Idle.O_Chara_Idle
+[2020.10.29-11.39.18:143][284]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.18:143][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.18:208][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.18:208][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.18:306][284]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_Run.FBX)
+[2020.10.29-11.39.18:358][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_Run.FBX
+[2020.10.29-11.39.18:415][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.18:416][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.18:416][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.18:416][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.18:417][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.18:418][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.18:418][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.18:446][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.19:781][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 467
+[2020.10.29-11.39.19:781][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 457
+[2020.10.29-11.39.19:781][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.19:823][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.19:978][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 447
+[2020.10.29-11.39.19:978][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 437
+[2020.10.29-11.39.20:951][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.20:952][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.20:953][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.20:953][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.20:953][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.20:953][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.20:957][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.20:957][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.20:957][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.20:957][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.20:957][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.20:958][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.20:965][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_Run...
+[2020.10.29-11.39.21:952][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 427
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.21:952][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.21:953][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.21:956][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.22:055][284]LogSkeletalMesh: Built Skeletal Mesh [1.09s] /Game/Character/Objects/O_Chara_Run.O_Chara_Run
+[2020.10.29-11.39.22:100][284]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.22:100][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.22:154][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.22:154][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.22:203][284]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_RunShoot.FBX)
+[2020.10.29-11.39.22:232][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 417
+[2020.10.29-11.39.22:242][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_RunShoot.FBX
+[2020.10.29-11.39.22:302][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.22:304][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.22:304][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.22:304][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.22:304][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.22:305][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.22:305][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.22:335][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.23:656][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 407
+[2020.10.29-11.39.23:656][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 397
+[2020.10.29-11.39.23:656][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.23:694][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.24:598][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 387
+[2020.10.29-11.39.24:810][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.24:811][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.24:812][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.24:815][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.24:822][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_RunShoot...
+[2020.10.29-11.39.25:610][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 377
+[2020.10.29-11.39.25:610][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 367
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.25:800][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.25:801][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.25:805][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.25:905][284]LogSkeletalMesh: Built Skeletal Mesh [1.08s] /Game/Character/Objects/O_Chara_RunShoot.O_Chara_RunShoot
+[2020.10.29-11.39.25:949][284]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.25:949][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.26:010][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 357
+[2020.10.29-11.39.26:011][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.26:011][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.26:059][284]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_RunShootBIG.FBX)
+[2020.10.29-11.39.26:089][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_RunShootBIG.FBX
+[2020.10.29-11.39.26:145][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.26:146][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.26:147][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.26:147][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.26:147][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.26:148][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.26:148][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.26:184][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.27:527][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 347
+[2020.10.29-11.39.27:527][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.27:569][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.28:479][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 337
+[2020.10.29-11.39.28:673][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 327
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.28:673][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.28:674][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.28:678][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.28:705][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_RunShootBIG...
+[2020.10.29-11.39.29:514][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 317
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.29:709][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.29:710][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.29:714][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.29:807][284]LogSkeletalMesh: Built Skeletal Mesh [1.10s] /Game/Character/Objects/O_Chara_RunShootBIG.O_Chara_RunShootBIG
+[2020.10.29-11.39.29:869][284]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.29:869][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.29:934][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.29:934][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.29:986][284]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_CaCGun.FBX)
+[2020.10.29-11.39.30:024][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_CaCGun.FBX
+[2020.10.29-11.39.30:079][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 307
+[2020.10.29-11.39.30:079][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.30:081][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.30:081][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.30:081][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.30:082][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.30:082][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.30:082][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.30:118][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.31:441][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 297
+[2020.10.29-11.39.31:441][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.31:486][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 287
+[2020.10.29-11.39.31:486][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.32:398][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 277
+[2020.10.29-11.39.32:632][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 267
+[2020.10.29-11.39.32:632][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.32:632][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.32:632][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.32:633][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.32:634][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.32:634][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.32:634][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.32:637][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.32:643][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_CaCGun...
+[2020.10.29-11.39.33:441][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 257
+[2020.10.29-11.39.33:635][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.33:636][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.33:637][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.33:637][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.33:640][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.33:641][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.33:733][284]LogSkeletalMesh: Built Skeletal Mesh [1.09s] /Game/Character/Objects/O_Chara_CaCGun.O_Chara_CaCGun
+[2020.10.29-11.39.33:776][284]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.33:776][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.33:834][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.33:834][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.33:884][284]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\O_Chara_CaCSword.FBX)
+[2020.10.29-11.39.33:924][284]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\O_Chara_CaCSword.FBX
+[2020.10.29-11.39.33:983][284]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-11.39.33:985][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node O_Chara_Skinned : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.33:985][284]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Cube.001 : Not all the deformers are stored in this BindPose
+[2020.10.29-11.39.33:985][284]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.29-11.39.33:986][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node O_Chara_Skinned : The relative matrices do not match
+[2020.10.29-11.39.33:987][284]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node Cube.001 : The relative matrices do not match
+[2020.10.29-11.39.33:987][284]LogFbx: Warning: Recreating bind pose failed.
+[2020.10.29-11.39.34:022][284]LogFbx: Triangulating skeletal mesh O_Chara_Skinned
+[2020.10.29-11.39.35:366][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 247
+[2020.10.29-11.39.35:366][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 237
+[2020.10.29-11.39.35:366][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 227
+[2020.10.29-11.39.35:366][284]LogFbx: Triangulating skeletal mesh Cube.001
+[2020.10.29-11.39.35:413][284]LogFbx: Warning: Bones digested - 29  Depth of hierarchy - 11
+[2020.10.29-11.39.36:306][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 217
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.36:526][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.36:527][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.36:531][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.36:531][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.36:531][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.36:532][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.36:538][284]LogSkeletalMesh: Building Skeletal Mesh O_Chara_CaCSword...
+[2020.10.29-11.39.37:522][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 207
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 0: 7997 vertices, 4 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 1: 3148 vertices, 3 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 2: 41 vertices, 3 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 3: 432 vertices, 5 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 4: 204 vertices, 4 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 5: 600 vertices, 6 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 6: 2182 vertices, 4 active bones
+[2020.10.29-11.39.37:523][284]LogSkeletalMesh: Section 7: 23 vertices, 2 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 8: 2105 vertices, 5 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 9: 32 vertices, 3 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 10: 208 vertices, 5 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 11: 2671 vertices, 12 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 12: 2801 vertices, 12 active bones
+[2020.10.29-11.39.37:524][284]LogSkeletalMesh: Section 13: 658 vertices, 1 active bones
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 0: Material=0, 10018 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 1: Material=1, 6206 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 3: Material=3, 796 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 4: Material=4, 350 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 5: Material=5, 994 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 6: Material=6, 4160 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 7: Material=7, 27 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 8: Material=8, 4014 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 9: Material=9, 44 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 10: Material=10, 370 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 11: Material=11, 4860 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 12: Material=12, 5252 triangles
+[2020.10.29-11.39.37:528][284]LogSkeletalMesh: Section 13: Material=13, 500 triangles
+[2020.10.29-11.39.37:632][284]LogSkeletalMesh: Built Skeletal Mesh [1.09s] /Game/Character/Objects/O_Chara_CaCSword.O_Chara_CaCSword
+[2020.10.29-11.39.37:679][284]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.39.37:679][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.39.37:738][284]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-11.39.37:738][284]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.10.29-11.39.38:144][286]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 197
+[2020.10.29-11.39.38:145][286]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 187
+[2020.10.29-11.39.38:851][315]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 177
+[2020.10.29-11.39.39:860][380]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.39.39:866][380]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-11.39.41:308][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 167
+[2020.10.29-11.39.41:314][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 157
+[2020.10.29-11.39.41:324][475]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 147
+[2020.10.29-11.39.42:302][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 137
+[2020.10.29-11.39.44:531][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 127
+[2020.10.29-11.39.44:669][733]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 117
+[2020.10.29-11.39.45:495][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 107
+[2020.10.29-11.39.45:962][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 97
+[2020.10.29-11.39.48:384][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2020.10.29-11.39.48:437][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2020.10.29-11.39.48:843][164]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2020.10.29-11.39.49:892][273]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.10.29-11.39.51:952][493]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.10.29-11.39.52:151][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.10.29-11.39.52:389][539]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.10.29-11.39.53:704][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.10.29-11.39.54:888][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.10.29-11.39.55:461][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.10.29-11.39.55:654][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.10.29-11.39.55:805][906]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.10.29-11.39.56:456][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.29-11.39.56:605][989]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.29-11.39.56:653][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.29-11.40.00:153][341]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Objects/O_Chara_CaCGun.O_Chara_CaCGun
+[2020.10.29-11.40.00:158][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.40.00:226][341]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.40.06:326][762]LogSlate: Window 'O_Chara_CaCGun' being destroyed
+[2020.10.29-11.40.06:340][762]LogSlate: Window 'O_Chara_CaCGun' being destroyed
+[2020.10.29-11.40.06:340][762]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.40.06:340][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.40.07:972][890]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_Chara_CaCGun)
+[2020.10.29-11.40.08:854][993]Cmd: DELETE
+[2020.10.29-11.40.08:854][993]Cmd: ACTOR DELETE
+[2020.10.29-11.40.08:913][993]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.10.29-11.40.09:012][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.10.29-11.40.09:021][993]LogEditorActor: Deleted 1 Actors (0.167 secs)
+[2020.10.29-11.40.19:898][959]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.29-11.40.32:090][130]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.10.29-11.40.40:564][130]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.10.29-11.40.46:269][786]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Objects/CharaAnimBP.CharaAnimBP
+[2020.10.29-11.40.46:275][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.40.46:991][786]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.40.49:556][991]LogSlate: Window 'CharaAnimBP' being destroyed
+[2020.10.29-11.47.15:700][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.10.29-11.47.15:704][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Level_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.29-11.47.15:720][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level_Auto4E9DEF4B6437601199F7757BD7B1AF5E7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Level_Auto4.umap'
+[2020.10.29-11.47.15:721][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.085
+[2020.10.29-11.47.15:722][731]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2020.10.29-11.47.16:192][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_Idle] ([1] browsable assets)...
+[2020.10.29-11.47.16:228][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_Idle.O_Chara_Idle]
+[2020.10.29-11.47.16:229][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Idle]
+[2020.10.29-11.47.16:459][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Idle_Auto4A21595AB4780EB8B56ECC4A2542D8DAD.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Idle_Auto4.uasset'
+[2020.10.29-11.47.16:459][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D20] ([1] browsable assets)...
+[2020.10.29-11.47.16:475][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D20.PM3D_Merged_PM3D_Cone3D20]
+[2020.10.29-11.47.16:475][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D20]
+[2020.10.29-11.47.16:484][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D20_Auto44180812946300FC9853707B8BA421A56.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D20_Auto4.uasset'
+[2020.10.29-11.47.16:485][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D21] ([1] browsable assets)...
+[2020.10.29-11.47.16:506][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D21.PM3D_Merged_PM3D_Cone3D21]
+[2020.10.29-11.47.16:506][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D21]
+[2020.10.29-11.47.16:522][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D21_Auto47BA384DC4D60570F882A618F9D860098.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D21_Auto4.uasset'
+[2020.10.29-11.47.16:523][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D22] ([1] browsable assets)...
+[2020.10.29-11.47.16:546][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D22.PM3D_Merged_PM3D_Cone3D22]
+[2020.10.29-11.47.16:547][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D22]
+[2020.10.29-11.47.16:563][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D22_Auto418474FF4495083C3BB5D9FA79E1CEC4C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D22_Auto4.uasset'
+[2020.10.29-11.47.16:564][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D23] ([1] browsable assets)...
+[2020.10.29-11.47.16:588][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D23.PM3D_Merged_PM3D_Cone3D23]
+[2020.10.29-11.47.16:588][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D23]
+[2020.10.29-11.47.16:604][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D23_Auto4E42DA1F640844B83D62FD7B8D2F60DFC.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D23_Auto4.uasset'
+[2020.10.29-11.47.16:605][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D24] ([1] browsable assets)...
+[2020.10.29-11.47.16:629][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D24.PM3D_Merged_PM3D_Cone3D24]
+[2020.10.29-11.47.16:629][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D24]
+[2020.10.29-11.47.16:645][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D24_Auto4B8C255A04714779DBC5533A37E6D1F6A.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D24_Auto4.uasset'
+[2020.10.29-11.47.16:646][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D25] ([1] browsable assets)...
+[2020.10.29-11.47.16:670][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D25.PM3D_Merged_PM3D_Cone3D25]
+[2020.10.29-11.47.16:670][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D25]
+[2020.10.29-11.47.16:709][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D25_Auto4326210DC490E733F8B365EBF64DEE005.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D25_Auto4.uasset'
+[2020.10.29-11.47.16:710][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D26] ([1] browsable assets)...
+[2020.10.29-11.47.16:734][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D26.PM3D_Merged_PM3D_Cone3D26]
+[2020.10.29-11.47.16:735][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D26]
+[2020.10.29-11.47.16:751][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D26_Auto41A39B75143E938F642AC0EB271824B00.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D26_Auto4.uasset'
+[2020.10.29-11.47.16:752][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D27] ([1] browsable assets)...
+[2020.10.29-11.47.16:774][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D27.PM3D_Merged_PM3D_Cone3D27]
+[2020.10.29-11.47.16:774][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D27]
+[2020.10.29-11.47.16:789][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D27_Auto492AB6C4E44F1837B187E53ABB813E8E7.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D27_Auto4.uasset'
+[2020.10.29-11.47.16:790][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D28] ([1] browsable assets)...
+[2020.10.29-11.47.16:813][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D28.PM3D_Merged_PM3D_Cone3D28]
+[2020.10.29-11.47.16:814][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D28]
+[2020.10.29-11.47.16:842][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D28_Auto4CE52C8FB41F029AD9283A8A679C6AED3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D28_Auto4.uasset'
+[2020.10.29-11.47.16:843][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D29] ([1] browsable assets)...
+[2020.10.29-11.47.16:866][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D29.PM3D_Merged_PM3D_Cone3D29]
+[2020.10.29-11.47.16:867][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D29]
+[2020.10.29-11.47.16:884][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D29_Auto44BC6A8644A08371EE19AC6A3096BD083.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D29_Auto4.uasset'
+[2020.10.29-11.47.16:885][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D210] ([1] browsable assets)...
+[2020.10.29-11.47.16:909][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D210.PM3D_Merged_PM3D_Cone3D210]
+[2020.10.29-11.47.16:909][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D210]
+[2020.10.29-11.47.16:925][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D210_Auto4DFF4AF4945CF5941CB5CA3B0B5A7F897.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D210_Auto4.uasset'
+[2020.10.29-11.47.16:926][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D211] ([1] browsable assets)...
+[2020.10.29-11.47.16:951][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D211.PM3D_Merged_PM3D_Cone3D211]
+[2020.10.29-11.47.16:951][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D211]
+[2020.10.29-11.47.16:967][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D211_Auto418C3E86944ED1F184E966BB38FBF7170.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D211_Auto4.uasset'
+[2020.10.29-11.47.16:968][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D212] ([1] browsable assets)...
+[2020.10.29-11.47.16:987][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/PM3D_Merged_PM3D_Cone3D212.PM3D_Merged_PM3D_Cone3D212]
+[2020.10.29-11.47.16:987][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D212]
+[2020.10.29-11.47.16:997][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/PM3D_Merged_PM3D_Cone3D212_Auto4BC1E8BE243B9BFC7C6E1B2A8821818EF.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/PM3D_Merged_PM3D_Cone3D212_Auto4.uasset'
+[2020.10.29-11.47.16:998][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/Material] ([1] browsable assets)...
+[2020.10.29-11.47.17:017][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Objects/Material.Material]
+[2020.10.29-11.47.17:017][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/Material]
+[2020.10.29-11.47.17:027][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Material_Auto460657A974D58468D9BFDB589F2289F38.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/Material_Auto4.uasset'
+[2020.10.29-11.47.17:028][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_CaCSword_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.17:047][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_CaCSword_PhysicsAsset.O_Chara_CaCSword_PhysicsAsset]
+[2020.10.29-11.47.17:047][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCSword_PhysicsAsset]
+[2020.10.29-11.47.17:092][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCSword_PhysicsAsset_Au6545006C4CE4BAB1376E55B4B51D4A9D.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCSword_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.17:093][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_Idle_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.17:093][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Idle_Skeleton]
+[2020.10.29-11.47.17:097][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Idle_Skeleton_Auto41D220CEF4C7E12D19C8D4E86AC7DF066.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Idle_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.17:097][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_Idle_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.17:117][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_Idle_PhysicsAsset.O_Chara_Idle_PhysicsAsset]
+[2020.10.29-11.47.17:117][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Idle_PhysicsAsset]
+[2020.10.29-11.47.17:127][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Idle_PhysicsAsset_Auto4BECB75104F36A7C3B2551B9A093BA650.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Idle_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.17:127][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_Run] ([1] browsable assets)...
+[2020.10.29-11.47.17:147][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_Run.O_Chara_Run]
+[2020.10.29-11.47.17:147][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Run]
+[2020.10.29-11.47.17:373][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Run_Auto43C94122C426C9E26562BF28C63522B62.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Run_Auto4.uasset'
+[2020.10.29-11.47.17:373][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_Run_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.17:374][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Run_Skeleton]
+[2020.10.29-11.47.17:376][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Run_Skeleton_Auto43E2C290940A5C46EF690E1BED0E82B0C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Run_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.17:377][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_Run_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.17:393][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_Run_PhysicsAsset.O_Chara_Run_PhysicsAsset]
+[2020.10.29-11.47.17:393][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_Run_PhysicsAsset]
+[2020.10.29-11.47.17:399][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_Run_PhysicsAsset_Auto4827688FE4B477ECA448CD3B99A7CE5AB.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_Run_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.17:399][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_RunShoot] ([1] browsable assets)...
+[2020.10.29-11.47.17:415][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_RunShoot.O_Chara_RunShoot]
+[2020.10.29-11.47.17:415][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShoot]
+[2020.10.29-11.47.17:559][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShoot_Auto49FB9593045382F1C890605B479F9ECD1.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShoot_Auto4.uasset'
+[2020.10.29-11.47.17:559][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_RunShoot_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.17:560][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShoot_Skeleton]
+[2020.10.29-11.47.17:562][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShoot_Skeleton_Auto4878366B3464E6395D5CE0D908A126804.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShoot_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.17:563][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_RunShoot_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.17:579][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_RunShoot_PhysicsAsset.O_Chara_RunShoot_PhysicsAsset]
+[2020.10.29-11.47.17:579][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShoot_PhysicsAsset]
+[2020.10.29-11.47.17:586][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShoot_PhysicsAsset_AuD1E71E97484E6417CF5A56BA81F699E3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShoot_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.17:586][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_RunShootBIG] ([1] browsable assets)...
+[2020.10.29-11.47.17:603][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_RunShootBIG.O_Chara_RunShootBIG]
+[2020.10.29-11.47.17:603][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShootBIG]
+[2020.10.29-11.47.17:775][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShootBIG_Auto4EA4EBB71442DD559E20DACA2284093E3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShootBIG_Auto4.uasset'
+[2020.10.29-11.47.17:776][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_RunShootBIG_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.17:776][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShootBIG_Skeleton]
+[2020.10.29-11.47.17:778][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShootBIG_Skeleton_Aut65B24A83417F3C9F3DB3DDB1DEB155B8.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShootBIG_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.17:779][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_RunShootBIG_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.17:795][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_RunShootBIG_PhysicsAsset.O_Chara_RunShootBIG_PhysicsAsset]
+[2020.10.29-11.47.17:795][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_RunShootBIG_PhysicsAsset]
+[2020.10.29-11.47.17:801][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_RunShootBIG_PhysicsAsset1BAFEF9E47B7D0530F8A7896E1A6E20C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_RunShootBIG_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.17:802][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_CaCGun] ([1] browsable assets)...
+[2020.10.29-11.47.17:817][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_CaCGun.O_Chara_CaCGun]
+[2020.10.29-11.47.17:817][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCGun]
+[2020.10.29-11.47.18:005][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCGun_Auto4BCA1C2944B37BF28EBEE4290C2BBF308.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCGun_Auto4.uasset'
+[2020.10.29-11.47.18:006][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_CaCGun_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.18:006][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCGun_Skeleton]
+[2020.10.29-11.47.18:009][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCGun_Skeleton_Auto45AE740FB4770EED3AF54DBBB99767B77.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCGun_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.18:009][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_CaCGun_PhysicsAsset] ([1] browsable assets)...
+[2020.10.29-11.47.18:025][731]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character/Objects/O_Chara_CaCGun_PhysicsAsset.O_Chara_CaCGun_PhysicsAsset]
+[2020.10.29-11.47.18:025][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCGun_PhysicsAsset]
+[2020.10.29-11.47.18:032][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCGun_PhysicsAsset_Auto4AED3B5C45EFB3C4F3992282BD70FFCF.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCGun_PhysicsAsset_Auto4.uasset'
+[2020.10.29-11.47.18:033][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/O_Chara_CaCSword] ([1] browsable assets)...
+[2020.10.29-11.47.18:049][731]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Objects/O_Chara_CaCSword.O_Chara_CaCSword]
+[2020.10.29-11.47.18:049][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCSword]
+[2020.10.29-11.47.18:317][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCSword_Auto4686EBBAB497EF1B88E4B9F94CC4D7E9E.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCSword_Auto4.uasset'
+[2020.10.29-11.47.18:317][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Objects/O_Chara_CaCSword_Skeleton] ([1] browsable assets)...
+[2020.10.29-11.47.18:317][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/O_Chara_CaCSword_Skeleton]
+[2020.10.29-11.47.18:318][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/O_Chara_CaCSword_Skeleton_Auto458FC9E604D0B3D9AA67D409EB2137A88.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/O_Chara_CaCSword_Skeleton_Auto4.uasset'
+[2020.10.29-11.47.18:319][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/CharaAnimBP] ([1] browsable assets)...
+[2020.10.29-11.47.18:334][731]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Objects/CharaAnimBP.CharaAnimBP]
+[2020.10.29-11.47.18:334][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/CharaAnimBP]
+[2020.10.29-11.47.18:341][731]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharaAnimBP_Auto49FD25E3C4B862A90B0A64885499C2587.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/CharaAnimBP_Auto4.uasset'
+[2020.10.29-11.47.18:341][731]LogFileHelpers: Auto-saving content packages took 2.619
+[2020.10.29-11.57.58:413][357]LogSlate: Window 'CharaAnimBP' being destroyed
+[2020.10.29-11.57.58:417][357]LogSlate: Window 'CharaAnimBP' being destroyed
+[2020.10.29-11.57.58:469][357]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.57.58:469][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.57.58:474][357]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.57.58:474][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.57.58:625][357]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.57.58:625][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.58.05:760][942]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Objects/CharaAnimBP.CharaAnimBP
+[2020.10.29-11.58.05:767][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.29-11.58.06:214][942]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.29-11.59.35:526][316]LogSlate: Window 'CharaAnimBP' being destroyed
+[2020.10.29-11.59.35:530][316]LogSlate: Window 'CharaAnimBP' being destroyed
+[2020.10.29-11.59.35:545][316]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.59.35:545][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.59.35:548][316]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.59.35:548][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.59.35:673][316]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-11.59.35:674][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-11.59.39:846][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.29-11.59.41:612][587]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-11.59.43:124][587]LogUObjectGlobals: Force Deleting 32 Package(s):
+	Asset Name: /Game/Character/Objects/Material.Material
+	Asset Name: /Game/Character/Objects/O_Chara_CaCGun.O_Chara_CaCGun
+	Asset Name: /Game/Character/Objects/O_Chara_CaCGun_PhysicsAsset.O_Chara_CaCGun_PhysicsAsset
+	Asset Name: /Game/Character/Objects/O_Chara_CaCGun_Skeleton.O_Chara_CaCGun_Skeleton
+	Asset Name: /Game/Character/Objects/O_Chara_CaCSword.O_Chara_CaCSword
+	Asset Name: /Game/Character/Objects/O_Chara_CaCSword_PhysicsAsset.O_Chara_CaCSword_PhysicsAsset
+	Asset Name: /Game/Character/Objects/O_Chara_CaCSword_Skeleton.O_Chara_CaCSword_Skeleton
+	Asset Name: /Game/Character/Objects/O_Chara_Idle.O_Chara_Idle
+	Asset Name: /Game/Character/Objects/O_Chara_Idle_PhysicsAsset.O_Chara_Idle_PhysicsAsset
+	Asset Name: /Game/Character/Objects/O_Chara_Idle_Skeleton.O_Chara_Idle_Skeleton
+[2020.10.29-11.59.57:840][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.29-12.00.00:671][901]Cmd: DELETE
+[2020.10.29-12.00.00:671][901]Cmd: ACTOR DELETE
+[2020.10.29-12.00.00:672][901]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.10.29-12.00.00:687][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.29-12.00.00:690][901]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.29-12.00.00:926][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.29-12.00.00:926][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Level_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.29-12.00.00:940][921]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level_Auto54DE45D3F430EC3141F7D1FBB622DA916.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Level_Auto5.umap'
+[2020.10.29-12.00.00:941][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.030
+[2020.10.29-12.00.00:942][921]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.030
+[2020.10.29-12.00.00:942][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Objects/CharaAnimBP] ([1] browsable assets)...
+[2020.10.29-12.00.00:944][921]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Objects/CharaAnimBP.CharaAnimBP]
+[2020.10.29-12.00.00:944][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Objects/CharaAnimBP]
+[2020.10.29-12.00.00:949][921]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/CharaAnimBP_Auto55D98FCDF4E05BC4C1B832BBDEFAFBEF3.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Character/Objects/CharaAnimBP_Auto5.uasset'
+[2020.10.29-12.00.00:950][921]LogFileHelpers: Auto-saving content packages took 0.008
+[2020.10.29-12.00.11:001][107]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.29-12.00.12:528][268]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.29-12.01.00:041][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Isles.fbx)
+[2020.10.29-12.01.00:049][ 15]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Isles.fbx
+[2020.10.29-12.01.00:057][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.01.09:134][ 15]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.01.09:179][ 15]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.10.29-12.01.09:192][ 15]LogMaterial: Display: Missing cached shader map for material Rock, compiling. 
+[2020.10.29-12.01.09:199][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-12.01.09:199][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-12.01.09:199][ 15]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-12.01.09:199][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-12.01.09:204][ 15]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.10.29-12.01.09:213][ 15]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-12.01.09:267][ 15]LogStaticMesh: Building static mesh Isles_Plane...
+[2020.10.29-12.01.09:289][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Isles_Plane.Isles_Plane
+[2020.10.29-12.01.09:308][ 15]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.10.29-12.01.09:317][ 15]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.01.09:385][ 15]LogStaticMesh: Building static mesh Isles_Baril...
+[2020.10.29-12.01.09:412][ 15]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Isles_Baril.Isles_Baril
+[2020.10.29-12.01.09:428][ 15]LogFbx: Display: Triangulating static mesh Caillou
+[2020.10.29-12.01.09:431][ 15]LogStaticMesh: Building static mesh Isles_Caillou...
+[2020.10.29-12.01.09:441][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Isles_Caillou.Isles_Caillou
+[2020.10.29-12.01.09:466][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-12.01.09:531][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Pont.fbx)
+[2020.10.29-12.01.09:542][ 15]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Pont.fbx
+[2020.10.29-12.01.09:552][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.01.09:561][ 15]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-12.01.09:601][ 15]LogStaticMesh: Building static mesh Pont_Plane...
+[2020.10.29-12.01.09:624][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Pont_Plane.Pont_Plane
+[2020.10.29-12.01.09:639][ 15]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-12.01.09:749][ 15]LogStaticMesh: Building static mesh Pont_Pont...
+[2020.10.29-12.01.09:802][ 15]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/Pont_Pont.Pont_Pont
+[2020.10.29-12.01.09:820][ 15]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.01.09:892][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.10.29-12.01.09:892][ 15]LogStaticMesh: Building static mesh Pont_Baril...
+[2020.10.29-12.01.09:921][ 15]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Pont_Baril.Pont_Baril
+[2020.10.29-12.01.09:938][ 15]LogFbx: Display: Triangulating static mesh Caillou
+[2020.10.29-12.01.09:940][ 15]LogStaticMesh: Building static mesh Pont_Caillou...
+[2020.10.29-12.01.09:950][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Pont_Caillou.Pont_Caillou
+[2020.10.29-12.01.09:981][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-12.01.09:990][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Caillou.fbx)
+[2020.10.29-12.01.10:000][ 15]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Caillou.fbx
+[2020.10.29-12.01.10:012][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.01.10:020][ 15]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-12.01.10:058][ 15]LogStaticMesh: Building static mesh Caillou_Plane...
+[2020.10.29-12.01.10:080][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Caillou_Plane.Caillou_Plane
+[2020.10.29-12.01.10:098][ 15]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-12.01.10:203][ 15]LogStaticMesh: Building static mesh Caillou_Pont...
+[2020.10.29-12.01.10:259][ 15]LogStaticMesh: Built static mesh [0.06s] /Game/Mesh/Caillou_Pont.Caillou_Pont
+[2020.10.29-12.01.10:277][ 15]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-12.01.10:336][ 15]LogStaticMesh: Building static mesh Caillou_Cube_014...
+[2020.10.29-12.01.10:360][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Caillou_Cube_014.Caillou_Cube_014
+[2020.10.29-12.01.10:373][ 15]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.01.10:446][ 15]LogStaticMesh: Building static mesh Caillou_Baril...
+[2020.10.29-12.01.10:478][ 15]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Caillou_Baril.Caillou_Baril
+[2020.10.29-12.01.10:493][ 15]LogFbx: Display: Triangulating static mesh Caillou
+[2020.10.29-12.01.10:496][ 15]LogStaticMesh: Building static mesh Caillou_Caillou...
+[2020.10.29-12.01.10:503][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Caillou_Caillou.Caillou_Caillou
+[2020.10.29-12.01.10:540][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-12.01.10:549][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Barque.fbx)
+[2020.10.29-12.01.10:562][ 15]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Barque.fbx
+[2020.10.29-12.01.10:576][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.01.10:584][ 15]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-12.01.10:624][ 15]LogStaticMesh: Building static mesh Barque_Plane...
+[2020.10.29-12.01.10:640][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.10.29-12.01.10:640][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Barque_Plane.Barque_Plane
+[2020.10.29-12.01.10:660][ 15]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-12.01.10:763][ 15]LogStaticMesh: Building static mesh Barque_Pont...
+[2020.10.29-12.01.10:813][ 15]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/Barque_Pont.Barque_Pont
+[2020.10.29-12.01.10:834][ 15]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-12.01.10:888][ 15]LogStaticMesh: Building static mesh Barque_Cube_014...
+[2020.10.29-12.01.10:908][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Barque_Cube_014.Barque_Cube_014
+[2020.10.29-12.01.10:921][ 15]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.01.10:993][ 15]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.10.29-12.01.10:993][ 15]LogStaticMesh: Building static mesh Barque_Baril...
+[2020.10.29-12.01.11:024][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.10.29-12.01.11:024][ 15]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Barque_Baril.Barque_Baril
+[2020.10.29-12.01.11:039][ 15]LogFbx: Display: Triangulating static mesh Caillou
+[2020.10.29-12.01.11:042][ 15]LogStaticMesh: Building static mesh Barque_Caillou...
+[2020.10.29-12.01.11:050][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Barque_Caillou.Barque_Caillou
+[2020.10.29-12.01.11:084][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-12.01.11:093][ 15]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Downloads\Baril.fbx)
+[2020.10.29-12.01.11:103][ 15]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Downloads\Baril.fbx
+[2020.10.29-12.01.11:114][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.01.11:123][ 15]LogFbx: Display: Triangulating static mesh Plane
+[2020.10.29-12.01.11:161][ 15]LogStaticMesh: Building static mesh Baril_Plane...
+[2020.10.29-12.01.11:181][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Baril_Plane.Baril_Plane
+[2020.10.29-12.01.11:199][ 15]LogFbx: Display: Triangulating static mesh Pont
+[2020.10.29-12.01.11:305][ 15]LogStaticMesh: Building static mesh Baril_Pont...
+[2020.10.29-12.01.11:357][ 15]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/Baril_Pont.Baril_Pont
+[2020.10.29-12.01.11:376][ 15]LogFbx: Display: Triangulating static mesh Cube.014
+[2020.10.29-12.01.11:430][ 15]LogStaticMesh: Building static mesh Baril_Cube_014...
+[2020.10.29-12.01.11:453][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Baril_Cube_014.Baril_Cube_014
+[2020.10.29-12.01.11:465][ 15]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.01.11:540][ 15]LogStaticMesh: Building static mesh Baril_Baril...
+[2020.10.29-12.01.11:567][ 15]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Baril_Baril.Baril_Baril
+[2020.10.29-12.01.11:581][ 15]LogFbx: Display: Triangulating static mesh Caillou
+[2020.10.29-12.01.11:583][ 15]LogStaticMesh: Building static mesh Baril_Caillou...
+[2020.10.29-12.01.11:590][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Baril_Caillou.Baril_Caillou
+[2020.10.29-12.01.11:627][ 15]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.29-12.01.12:238][ 36]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.10.29-12.01.13:329][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.29-12.01.13:834][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.10.29-12.01.13:949][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.29-12.01.14:193][234]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.29-12.01.14:327][247]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-12.01.14:333][247]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.29-12.01.14:333][247]LogSlate: Window 'Message Log' being destroyed
+[2020.10.29-12.01.14:696][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.10.29-12.01.16:028][362]LogActorFactory: Actor Factory created Barque_Baril
+[2020.10.29-12.01.16:638][433]LogActorFactory: Actor Factory created Barque_Baril
+[2020.10.29-12.01.21:442][  0]Cmd: DELETE
+[2020.10.29-12.01.21:442][  0]Cmd: ACTOR DELETE
+[2020.10.29-12.01.21:444][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.01.21:462][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.10.29-12.01.21:469][  0]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.10.29-12.01.24:572][249]Cmd: TRANSACTION UNDO
+[2020.10.29-12.01.24:573][249]LogEditorTransaction: Undo Delete Actors
+[2020.10.29-12.01.37:856][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.29-12.01.39:395][150]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-12.01.41:088][150]LogUObjectGlobals: Force Deleting 26 Package(s):
+	Asset Name: /Game/Mesh/Baril_Baril.Baril_Baril
+	Asset Name: /Game/Mesh/Baril_Caillou.Baril_Caillou
+	Asset Name: /Game/Mesh/Baril_Cube_014.Baril_Cube_014
+	Asset Name: /Game/Mesh/Baril_Plane.Baril_Plane
+	Asset Name: /Game/Mesh/Baril_Pont.Baril_Pont
+	Asset Name: /Game/Mesh/Barque_Baril.Barque_Baril
+	Asset Name: /Game/Mesh/Barque_Caillou.Barque_Caillou
+	Asset Name: /Game/Mesh/Barque_Cube_014.Barque_Cube_014
+	Asset Name: /Game/Mesh/Barque_Plane.Barque_Plane
+	Asset Name: /Game/Mesh/Barque_Pont.Barque_Pont
+[2020.10.29-12.01.47:777][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.29-12.01.58:069][344]Cmd: DELETE
+[2020.10.29-12.01.58:069][344]Cmd: ACTOR DELETE
+[2020.10.29-12.01.58:070][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.01.58:084][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.29-12.01.58:087][344]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.29-12.01.59:088][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-12.01.59:103][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.29-12.01.59:115][434]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level782D71D24A4ED0CF5A747DA961756BF0.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-12.01.59:155][434]AssetCheck: New page: Asset Save: Level
+[2020.10.29-12.01.59:155][434]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-12.17.40:552][382]LogHttp: Warning: 0000025FEF7DB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13E5052A-4DB5-4627-E935-A19CA1DC106A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f6a79101418fb1c34a242891faafed5e%7Cf405581331b4462b9127fd08635ed54a%7Ca395bb65-d0de-4fde-a979-7f9c8ba00055&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.29-12.17.40:552][382]LogHttp: Warning: 0000025FEF7DB200: request failed, libcurl error: 28 (Timeout was reached)
+[2020.10.29-12.17.40:552][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 0 (Connection 57 seems to be dead!)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 1 (Closing connection 57)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 3 (  Trying 100.24.222.252...)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (100.24.222.252) port 443 (#58))
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 8 (SSL re-using session ID)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 11 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: 0000025FEF7DB200: libcurl info message cache 12 (Closing connection 58)
+[2020.10.29-12.17.40:553][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13E5052A-4DB5-4627-E935-A19CA1DC106A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f6a79101418fb1c34a242891faafed5e%7Cf405581331b4462b9127fd08635ed54a%7Ca395bb65-d0de-4fde-a979-7f9c8ba00055&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.29-12.20.30:011][ 31]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Documents\Baril.fbx)
+[2020.10.29-12.20.30:019][ 31]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Documents\Baril.fbx
+[2020.10.29-12.20.30:025][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.20.32:384][ 31]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.20.32:409][ 31]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.10.29-12.20.32:418][ 31]LogFbx: Display: Triangulating static mesh Baril
+[2020.10.29-12.20.32:484][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-12.20.32:484][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-12.20.32:484][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-12.20.32:484][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-12.20.32:486][ 31]LogStaticMesh: Building static mesh Baril...
+[2020.10.29-12.20.32:514][ 31]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Baril.Baril
+[2020.10.29-12.20.34:083][114]LogActorFactory: Actor Factory created Baril
+[2020.10.29-12.20.34:498][162]LogActorFactory: Actor Factory created Baril
+[2020.10.29-12.20.36:199][360]Cmd: DELETE
+[2020.10.29-12.20.36:199][360]Cmd: ACTOR DELETE
+[2020.10.29-12.20.36:200][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.20.36:217][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.10.29-12.20.36:221][360]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.29-12.20.40:238][463]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Documents\Boat.fbx)
+[2020.10.29-12.20.40:257][463]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Documents\Boat.fbx
+[2020.10.29-12.20.40:271][463]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.20.41:775][463]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.20.41:814][463]LogFbx: Display: Triangulating static mesh Boat
+[2020.10.29-12.20.41:869][463]LogStaticMesh: Building static mesh Boat...
+[2020.10.29-12.20.41:887][463]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Boat.Boat
+[2020.10.29-12.20.44:621][564]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Documents\Bridge.fbx)
+[2020.10.29-12.20.44:643][564]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Documents\Bridge.fbx
+[2020.10.29-12.20.44:659][564]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.20.45:815][564]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.20.45:840][564]LogMaterial: Display: Missing cached shader map for material Rock, compiling. 
+[2020.10.29-12.20.45:850][564]LogFbx: Display: Triangulating static mesh Bridge
+[2020.10.29-12.20.45:964][564]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-12.20.45:964][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-12.20.45:964][564]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-12.20.45:964][564]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-12.20.45:969][564]LogStaticMesh: Building static mesh Bridge...
+[2020.10.29-12.20.46:021][564]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/Bridge.Bridge
+[2020.10.29-12.20.48:610][726]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Documents\Isle.fbx)
+[2020.10.29-12.20.48:618][726]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Documents\Isle.fbx
+[2020.10.29-12.20.48:624][726]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.20.49:734][726]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.20.49:760][726]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.10.29-12.20.49:774][726]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.10.29-12.20.49:781][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.29-12.20.49:782][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.29-12.20.49:782][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-12.20.49:782][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-12.20.49:782][726]LogFbx: Display: Triangulating static mesh Isle
+[2020.10.29-12.20.49:835][726]LogStaticMesh: Building static mesh Isle...
+[2020.10.29-12.20.49:857][726]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/Isle.Isle
+[2020.10.29-12.20.50:370][773]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.10.29-12.20.51:326][849]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.10.29-12.20.51:635][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.29-12.20.51:719][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.10.29-12.20.51:839][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.29-12.20.51:987][899]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.29-12.20.52:288][906]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.10.29-12.20.56:386][ 58]Cmd: TRANSACTION UNDO
+[2020.10.29-12.20.56:386][ 58]LogEditorTransaction: Undo Delete Actors
+[2020.10.29-12.20.57:744][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.29-12.20.58:871][145]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.29-12.20.59:318][145]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mesh/Rock.Rock
+[2020.10.29-12.20.59:903][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.29-12.21.04:026][283]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game3.ETPA\Documents\Rock.fbx)
+[2020.10.29-12.21.04:034][283]LogFbx: Loading FBX Scene from C:\Users\game3.ETPA\Documents\Rock.fbx
+[2020.10.29-12.21.04:039][283]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-12.21.05:585][283]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-12.21.05:605][283]LogFbx: Display: Triangulating static mesh Rock
+[2020.10.29-12.21.05:618][283]LogStaticMesh: Building static mesh Rock...
+[2020.10.29-12.21.05:625][283]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/Rock.Rock
+[2020.10.29-12.21.07:014][394]LogActorFactory: Actor Factory created Rock
+[2020.10.29-12.21.07:385][435]LogActorFactory: Actor Factory created Rock
+[2020.10.29-12.21.08:837][602]Cmd: DELETE
+[2020.10.29-12.21.08:837][602]Cmd: ACTOR DELETE
+[2020.10.29-12.21.08:838][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.21.08:854][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.29-12.21.08:856][602]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.10.29-12.21.09:207][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Baril)
+[2020.10.29-12.21.09:658][692]Cmd: DELETE
+[2020.10.29-12.21.09:658][692]Cmd: ACTOR DELETE
+[2020.10.29-12.21.09:659][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.21.09:674][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.29-12.21.09:675][692]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.29-12.21.12:862][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-12.21.13:280][ 66]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_HalloweenTree_Animated)
+[2020.10.29-12.21.13:523][ 90]Cmd: DELETE
+[2020.10.29-12.21.13:523][ 90]Cmd: ACTOR DELETE
+[2020.10.29-12.21.13:524][ 90]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.10.29-12.21.13:539][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.10.29-12.21.13:541][ 90]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.29-12.21.13:891][131]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (O_PalmTree_Animated)
+[2020.10.29-12.21.13:992][138]Cmd: DELETE
+[2020.10.29-12.21.13:992][138]Cmd: ACTOR DELETE
+[2020.10.29-12.21.13:993][138]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.10.29-12.21.14:008][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.10.29-12.21.14:009][138]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.29-12.21.15:990][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-12.21.16:005][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.29-12.21.16:019][308]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level6695C5E2425DB3931D9CE1AA5F47E555.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-12.21.16:056][308]AssetCheck: New page: Asset Save: Level
+[2020.10.29-12.21.16:056][308]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-12.21.20:745][629]LogActorFactory: Actor Factory created Isle
+[2020.10.29-12.21.21:253][686]LogActorFactory: Actor Factory created Isle
+[2020.10.29-12.21.41:814][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-12.21.42:423][110]Cmd: DELETE
+[2020.10.29-12.21.42:423][110]Cmd: ACTOR DELETE
+[2020.10.29-12.21.42:424][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.21.42:440][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.29-12.21.42:448][110]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.29-12.21.43:383][217]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-12.21.43:398][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-12.21.43:398][217]PIE: New page: PIE session: Level (29 oct. 2020 à 14:21:43)
+[2020.10.29-12.21.43:421][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2020.10.29-12.21.43:422][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2020.10.29-12.21.43:423][217]LogAIModule: Creating AISystem for world Level
+[2020.10.29-12.21.43:423][217]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025FEE7E3600), frame # 966217
+[2020.10.29-12.21.43:423][217]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025F3F520400), frame # 966217
+[2020.10.29-12.21.43:423][217]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.10.29-12.21.43:423][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.002831s)
+[2020.10.29-12.21.43:439][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-12.21.43:440][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-12.21.43:441][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-12.21.43:441][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-12.21.43:441][217]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-12.21.43:441][217]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-12.21.43:447][217]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-12.21.43:447][217]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-12.21.43:468][217]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.10.29-12.21.43:469][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-12.21.43:469][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-12.21.43:469][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-12.21.43:469][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-12.21.43:482][217]LogInit: FAudioDevice initialized.
+[2020.10.29-12.21.43:495][217]LogLinker: Warning: Failed to load '/Game/GameMode': Can't find file.
+[2020.10.29-12.21.43:496][217]LogLinker: Warning: Failed to load '/Game/GameMode': Can't find file.
+[2020.10.29-12.21.43:496][217]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameMode.GameMode_C'
+[2020.10.29-12.21.43:496][217]LogLoad: Game class is 'GameModeBase'
+[2020.10.29-12.21.43:498][217]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2020.10.29-13.21.43
+[2020.10.29-12.21.43:498][217]LogWorld: Bringing up level for play took: 0.000859
+[2020.10.29-12.21.43:498][217]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.10.29-12.21.43:517][217]PIE: Server logged in
+[2020.10.29-12.21.43:519][217]PIE: Play in editor total start time 0,122 seconds.
+[2020.10.29-12.21.45:261][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-12.21.45:261][416]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2020.10.29-12.21.45:261][416]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-12.21.45:262][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-12.21.45:271][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-12.21.45:276][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-12.21.45:303][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-12.21.45:324][416]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025F3F520400), frame # 966416
+[2020.10.29-12.21.45:324][416]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025FEE7E3600), frame # 966416
+[2020.10.29-12.21.45:327][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.29-12.21.45:366][417]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.10.29-12.21.51:314][ 77]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.29-12.21.53:473][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-12.21.53:490][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.10.29-12.21.53:505][324]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level110AA8EB4D12553D59038DBA56416DFB.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-12.21.53:542][324]AssetCheck: New page: Asset Save: Level
+[2020.10.29-12.21.53:542][324]LogContentValidation: Display: Validating World /Game/Level.Level
+[2020.10.29-12.22.06:278][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Isle)
+[2020.10.29-12.22.06:982][834]Cmd: DELETE
+[2020.10.29-12.22.06:982][834]Cmd: ACTOR DELETE
+[2020.10.29-12.22.06:983][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-12.22.06:999][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.10.29-12.22.07:004][834]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.29-12.22.08:191][975]Cmd: TRANSACTION UNDO
+[2020.10.29-12.22.08:191][975]LogEditorTransaction: Undo Delete Actors
+[2020.10.29-12.22.08:581][983]Cmd: TRANSACTION UNDO
+[2020.10.29-12.22.08:581][983]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.29-12.22.11:517][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Isle)
+[2020.10.29-12.22.11:689][330]Cmd: TRANSACTION UNDO
+[2020.10.29-12.22.11:689][330]LogEditorTransaction: Undo Clicking on Actors
