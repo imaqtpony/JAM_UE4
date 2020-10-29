@@ -53,11 +53,11 @@ void EmptyLinkFunctionForGeneratedCodeScoreManager() {}
 #endif
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass_MetaData[] = {
-		{ "Category", "ScoreManager" },
+		{ "Category", "UI" },
 		{ "ModuleRelativePath", "ScoreManager.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass = { "widgetClass", nullptr, (EPropertyFlags)0x0044000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AScoreManager, widgetClass), Z_Construct_UClass_UUserWidget_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass_MetaData)) };
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass = { "widgetClass", nullptr, (EPropertyFlags)0x0014000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AScoreManager, widgetClass), Z_Construct_UClass_UUserWidget_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AScoreManager_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AScoreManager_Statics::NewProp_widgetClass,
 	};
@@ -88,7 +88,7 @@ void EmptyLinkFunctionForGeneratedCodeScoreManager() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AScoreManager, 4202793417);
+	IMPLEMENT_CLASS(AScoreManager, 1167170819);
 	template<> JAM_UE4_API UClass* StaticClass<AScoreManager>()
 	{
 		return AScoreManager::StaticClass();

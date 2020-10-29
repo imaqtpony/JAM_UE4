@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeJam_UE4_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA3548FAE,
+				0x7DAE7C8C,
 				0xE48563EB,
 				METADATA_PARAMS(nullptr, 0)
 			};

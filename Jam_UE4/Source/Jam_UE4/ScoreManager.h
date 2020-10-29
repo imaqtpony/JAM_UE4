@@ -13,11 +13,12 @@ class JAM_UE4_API AScoreManager : public AActor
 {
 	GENERATED_BODY()
 
-	UPROPERTY(EditAnywhere, "UI")
+public:
+
+	UPROPERTY(EditAnywhere, Category = "UI")
 		TSubclassOf<UUserWidget> widgetClass;
 	UUserWidget* healthBar;
 	
-public:	
 	// Sets default values for this actor's properties
 	AScoreManager();
 

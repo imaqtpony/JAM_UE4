@@ -16,8 +16,10 @@ void AScoreManager::BeginPlay()
 {
 	Super::BeginPlay();
 
-	if (widgetClass != nullptr)
+	if (widgetClass != nullptr) {
 		healthBar = CreateWidget(GetWorld(), widgetClass);
+		healthBar->AddToViewport();
+	}
 	
 }
 

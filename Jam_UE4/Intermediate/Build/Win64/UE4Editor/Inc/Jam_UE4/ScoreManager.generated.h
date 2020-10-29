@@ -58,10 +58,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AScoreManager); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AScoreManager)
 
 
-#define Jam_UE4_Source_Jam_UE4_ScoreManager_h_14_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__widgetClass() { return STRUCT_OFFSET(AScoreManager, widgetClass); }
-
-
+#define Jam_UE4_Source_Jam_UE4_ScoreManager_h_14_PRIVATE_PROPERTY_OFFSET
 #define Jam_UE4_Source_Jam_UE4_ScoreManager_h_11_PROLOG
 #define Jam_UE4_Source_Jam_UE4_ScoreManager_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
