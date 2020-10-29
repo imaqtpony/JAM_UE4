@@ -3941,26 +3941,3 @@ Script Stack (0 frames):
 [2020.10.29-12.27.09:012][ 98]LogOutputDevice: Error: [Callstack] 0x00007ff839dc4034 KERNEL32.DLL!UnknownFunction []
 [2020.10.29-12.27.09:012][ 98]LogOutputDevice: Error: [Callstack] 0x00007ff83bf43691 ntdll.dll!UnknownFunction []
 [2020.10.29-12.27.09:012][ 98]LogOutputDevice: Error: 
-[2020.10.29-12.27.09:044][ 98]LogStats:                SubmitErrorReport -  0.000 s
-[2020.10.29-12.27.10:132][ 98]LogStats:                    SendNewReport -  1.088 s
-[2020.10.29-12.27.10:132][ 98]LogStats:             FDebug::EnsureFailed -  1.215 s
-[2020.10.29-12.27.10:242][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
-[2020.10.29-12.27.10:242][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
-[2020.10.29-12.27.11:184][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
-[2020.10.29-12.27.11:210][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
-[2020.10.29-12.27.11:236][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
-[2020.10.29-12.27.11:261][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
-[2020.10.29-12.27.11:287][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
-[2020.10.29-12.27.11:312][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
-[2020.10.29-12.27.11:338][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
-[2020.10.29-12.27.11:362][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
-[2020.10.29-12.27.11:387][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
-[2020.10.29-12.27.11:423][ 98]LogTemp: Resetting audio stream to device id 
-[2020.10.29-12.27.11:445][ 98]LogAudioMixer: Display: 0: FrontLeft
-[2020.10.29-12.27.11:445][ 98]LogAudioMixer: Display: 1: FrontRight
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Warning: Failed to compile Material /Game/Materials/Secondary.Secondary for platform PCD3D_SM5, Default Material will be used in game.
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/VelocityShader.usf(49,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/BasePassVertexCommon.ush(36,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/LightMapDensityShader.usf(26,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/HitProxyVertexShader.usf(34,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
-[2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/DepthOnlyVertexShader.usf(30,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
