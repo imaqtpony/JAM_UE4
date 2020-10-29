@@ -774,3 +774,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.29-12.32.52:796][215]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2020.10.29-12.33.06:083][788]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.10.29-12.33.06:102][788]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.29-12.34.03:777][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC_AI.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:777][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC_AI.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:777][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC_AI.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:777][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC_AI.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:778][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:779][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:779][862]LoadErrors: Failed to load /Game/Character/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2020.10.29-12.34.03:779][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:779][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:779][862]LogLinker: Warning: While loading '../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC/NPC.uasset' failed to load '/Game/Character/CharacterBP': Can't find file.
+[2020.10.29-12.34.03:780][862]LogBlueprint: Error: [Compiler NPC_AI] Can't connect pins  Object  and  Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.29-12.34.03:781][862]LogBlueprint: Error: [Compiler NPC_AI] Can't connect pins  Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.29-12.34.04:353][862]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LA_SUPER_BANANE/NPC_Hugo.NPC_Hugo
+[2020.10.29-12.34.04:375][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.10.29-12.34.04:378][862]Cmd: MAP LOAD FILE="../../../../JAM/JAM_UE4/Jam_UE4/Content/LA_SUPER_BANANE/NPC_Hugo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-12.34.04:378][862]LightingResults: New page: Lighting Build
+[2020.10.29-12.34.04:379][862]LoadErrors: New page: Loading map: NPC_Hugo.umap
+[2020.10.29-12.34.04:414][862]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-12.34.04:414][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-12.34.04:414][862]MapCheck: New page: Map Check
+[2020.10.29-12.34.04:414][862]LightingResults: New page: Lighting Build
+[2020.10.29-12.34.04:436][862]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022AB6668A00), frame # 6862
+[2020.10.29-12.34.04:436][862]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022AFEB61440), frame # 6862
+[2020.10.29-12.34.04:438][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.10.29-12.34.04:446][862]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-12.34.04:446][862]LogAIModule: Creating AISystem for world NPC_Hugo
+[2020.10.29-12.34.04:446][862]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022AB668F600), frame # 6862
+[2020.10.29-12.34.04:446][862]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022AC1CD5580), frame # 6862
+[2020.10.29-12.34.04:462][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.10.29-12.34.04:487][862]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-12.34.04:487][862]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,064ms to complete.
+[2020.10.29-12.34.04:487][862]LogFileHelpers: Loading map 'NPC_Hugo' took 0.109
