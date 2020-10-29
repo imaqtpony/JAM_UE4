@@ -4539,3 +4539,52 @@ Please remove it first.
 [2020.10.29-12.22.11:517][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Isle)
 [2020.10.29-12.22.11:689][330]Cmd: TRANSACTION UNDO
 [2020.10.29-12.22.11:689][330]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.29-12.31.53:698][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.29-12.31.53:708][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.036
+[2020.10.29-12.31.53:708][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Baril] ([1] browsable assets)...
+[2020.10.29-12.31.53:728][245]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Baril.Baril]
+[2020.10.29-12.31.53:728][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Baril]
+[2020.10.29-12.31.53:728][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Baril" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Baril_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:747][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Baril_Auto6CB047CEF47F842DECE87BAB2ABC2EBC6.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Baril_Auto6.uasset'
+[2020.10.29-12.31.53:748][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Wood] ([1] browsable assets)...
+[2020.10.29-12.31.53:762][245]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Wood.Wood]
+[2020.10.29-12.31.53:762][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Wood]
+[2020.10.29-12.31.53:762][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Wood" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Wood_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:772][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Wood_Auto658174AD54E439D8BF41AD8A42BE6AA64.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Wood_Auto6.uasset'
+[2020.10.29-12.31.53:772][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Boat] ([1] browsable assets)...
+[2020.10.29-12.31.53:790][245]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Boat.Boat]
+[2020.10.29-12.31.53:790][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Boat]
+[2020.10.29-12.31.53:790][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Boat" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Boat_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:821][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Boat_Auto6BC849B07438D1B81A5F28BA5B58AB16C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Boat_Auto6.uasset'
+[2020.10.29-12.31.53:822][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Bridge] ([1] browsable assets)...
+[2020.10.29-12.31.53:840][245]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Bridge.Bridge]
+[2020.10.29-12.31.53:840][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Bridge]
+[2020.10.29-12.31.53:841][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Bridge" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Bridge_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:863][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Bridge_Auto69FFC06814E9058EAA5FBE592BE737A1C.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Bridge_Auto6.uasset'
+[2020.10.29-12.31.53:864][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Sand] ([1] browsable assets)...
+[2020.10.29-12.31.53:878][245]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Sand.Sand]
+[2020.10.29-12.31.53:878][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Sand]
+[2020.10.29-12.31.53:878][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Sand" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Sand_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:888][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Sand_Auto6E87E714B46A2D2C80B8A0AAC15CA6F3E.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Sand_Auto6.uasset'
+[2020.10.29-12.31.53:926][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Isle] ([1] browsable assets)...
+[2020.10.29-12.31.53:945][245]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Isle.Isle]
+[2020.10.29-12.31.53:945][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Isle]
+[2020.10.29-12.31.53:945][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Isle" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Isle_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:961][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Isle_Auto656AE6B2D46F5E0318D9C71B5319856AC.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Isle_Auto6.uasset'
+[2020.10.29-12.31.53:962][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Grass] ([1] browsable assets)...
+[2020.10.29-12.31.53:976][245]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Grass.Grass]
+[2020.10.29-12.31.53:976][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Grass]
+[2020.10.29-12.31.53:976][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Grass" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Grass_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.53:985][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Grass_Auto6C56DF1254AFD44A44AC5E4999E90246A.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Grass_Auto6.uasset'
+[2020.10.29-12.31.53:986][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Rock] ([1] browsable assets)...
+[2020.10.29-12.31.54:004][245]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Rock.Rock]
+[2020.10.29-12.31.54:004][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Rock]
+[2020.10.29-12.31.54:004][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Rock" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Rock_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.31.54:016][245]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Rock_Auto6A1EC551747F1CEE6581AABA88DCFAA3B.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/Mesh/Rock_Auto6.uasset'
+[2020.10.29-12.31.54:017][245]LogFileHelpers: Auto-saving content packages took 0.309
+[2020.10.29-12.34.54:204][225]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.29-12.34.55:181][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-12.34.55:209][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.10.29-12.34.55:260][240]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Saved/Level4E380BFD4D56C9D4EE2DD6B54F013500.tmp' to '../../../../../../Documents/Unreal Projects/JAM_UE4/Jam_UE4/Content/Level.umap'
+[2020.10.29-12.34.55:351][240]AssetCheck: New page: Asset Save: Level
+[2020.10.29-12.34.55:351][240]LogContentValidation: Display: Validating World /Game/Level.Level
