@@ -3780,4 +3780,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.29-11.24.08:372][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/LA_SUPER_BANANE/NPC/IsPlayerInRange]
 [2020.10.29-11.24.08:394][846]LogSavePackage: Moving '../../../../JAM/JAM_UE4/Jam_UE4/Saved/IsPlayerInRange_Auto538EF282F42DE04249F68568AE4AC82A4.tmp' to '../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/LA_SUPER_BANANE/NPC/IsPlayerInRange_Auto5.uasset'
 [2020.10.29-11.24.08:395][846]LogFileHelpers: Auto-saving content packages took 0.034
-[2020.10.29-12.23.59:606][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/SecondaryAttackBP.
