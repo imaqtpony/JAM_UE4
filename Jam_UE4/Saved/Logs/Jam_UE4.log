@@ -3964,3 +3964,14 @@ Script Stack (0 frames):
 [2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/LightMapDensityShader.usf(26,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
 [2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/HitProxyVertexShader.usf(34,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
 [2020.10.29-12.27.11:498][ 98]LogShaderCompilers: Display: /Engine/Private/DepthOnlyVertexShader.usf(30,3-34):  err0r X3000: unrecognized identifier 'FVertexFactoryInterpolantsVSToDS'
+[2020.10.29-12.27.49:020][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.10.29-12.27.49:023][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.058
+[2020.10.29-12.27.49:023][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LA_SUPER_BANANE/NPC/NPC_AI] ([1] browsable assets)...
+[2020.10.29-12.27.49:023][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/LA_SUPER_BANANE/NPC/NPC_AI]
+[2020.10.29-12.27.49:023][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LA_SUPER_BANANE/NPC/NPC_AI" FILE="../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/LA_SUPER_BANANE/NPC/NPC_AI_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.27.49:051][502]LogSavePackage: Moving '../../../../JAM/JAM_UE4/Jam_UE4/Saved/NPC_AI_Auto6B88024D149677DB83AB9B6861BD71388.tmp' to '../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/LA_SUPER_BANANE/NPC/NPC_AI_Auto6.uasset'
+[2020.10.29-12.27.49:052][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode1] ([1] browsable assets)...
+[2020.10.29-12.27.49:052][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode1]
+[2020.10.29-12.27.49:052][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode1" FILE="../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/GameMode1_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.29-12.27.49:067][502]LogSavePackage: Moving '../../../../JAM/JAM_UE4/Jam_UE4/Saved/GameMode1_Auto6BCB84FDB43D7A4E2B72BADA4E4002BA3.tmp' to '../../../../JAM/JAM_UE4/Jam_UE4/Saved/Autosaves/Game/GameMode1_Auto6.uasset'
+[2020.10.29-12.27.49:067][502]LogFileHelpers: Auto-saving content packages took 0.045
